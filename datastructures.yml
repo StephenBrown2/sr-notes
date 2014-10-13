@@ -1,0 +1,45 @@
+Painting:
+	Title
+	Image
+	Description
+	Height
+	Width
+	-> Size (Height x Width)
+	Medium
+	Year/Date Completed
+	Gallery/ies
+	Shows
+	Price
+	Availability
+
+Show:
+	Title
+	Start Date
+	End Date
+	Location
+	Address
+	Website
+
+Award:
+	Title
+	Year
+	Event
+	Painting
+
+Gallery:
+	Name
+	Phone number
+	Address
+	Website (Link to artist page if possible)
+
+Organization:
+	Membership Title
+	Organization Name
+	Website?
+
+Education:
+	Degree
+	Graduation Year
+	School
+	City
+	State
