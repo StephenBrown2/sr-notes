@@ -744,73 +744,73 @@
   - 
     aventName: "The New Reality: The Frontier of Realism in the 21st Century"
     aventTitle: ~
-    aventUrl: "http://www.smithkramer.com/web3/index.php?option=com_content&view=article&id=66:international-guild-of-realism&catid=22&Itemid=121"
+    aventUrl: "http://www.realismguild.com/PreviousExhibitionOwensboro2009.html"
     dateBegin: "May 24"
-    dateEnd: "July 19"
-    sponsor: ~
-    sponsorUrl: ~
-    venue: ~
-    venueAddress: ~
+    dateEnd: "July 16"
+    sponsor: "The International Guild of Realism"
+    sponsorUrl: "http://www.realismguild.com"
+    venue: "Owensboro Museum of Fine Art"
+    venueAddress: "901 Frederica St"
     venueCity: Owensboro
     venueState: KY
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: 42301
+    venueUrl: "http://owensboromuseumoffineart.org"
   - 
     aventName: "The New Reality: The Frontier of Realism in the 21st Century"
     aventTitle: ~
-    aventUrl: "http://www.smithkramer.com/web3/index.php?option=com_content&view=article&id=66:international-guild-of-realism&catid=22&Itemid=121"
+    aventUrl: "http://www.realismguild.com/PreviousExhibitionCityofLakeCharles2009.html"
     dateBegin: "August 14"
     dateEnd: "October 17"
-    sponsor: ~
-    sponsorUrl: ~
-    venue: ~
-    venueAddress: ~
+    sponsor: "The International Guild of Realism"
+    sponsorUrl: "http://www.realismguild.com"
+    venue: "City of Lake Charles - Historic City Hall Arts & Cultural Center"
+    venueAddress: "1001 Ryan Street"
     venueCity: "Lake Charles"
     venueState: LA
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: 70601
+    venueUrl: "http://www.cityoflakecharles.com/department/division.php?fDD=3-29"
   - 
     aventName: "The New Reality: The Frontier of Realism in the 21st Century"
     aventTitle: ~
-    aventUrl: "http://www.smithkramer.com/web3/index.php?option=com_content&view=article&id=66:international-guild-of-realism&catid=22&Itemid=121"
+    aventUrl: "http://www.realismguild.com/PreviousExhibitionTechTexas2010.html"
     dateBegin: "November 8"
     dateEnd: "January 3, 2010"
-    sponsor: ~
-    sponsorUrl: ~
-    venue: ~
-    venueAddress: ~
+    sponsor: "The International Guild of Realism"
+    sponsorUrl: "http://www.realismguild.com"
+    venue: "Museum of Texas Tech University"
+    venueAddress: "3301 4th St"
     venueCity: Lubbock
     venueState: TX
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: 79415
+    venueUrl: "http://www.depts.ttu.edu/museumttu/"
   - 
     aventName: "Susan Kathleen Black Foundation's 'Blossom - Art of Flowers' Museum Exhibition & National Museum Tour"
     aventTitle: ~
-    aventUrl: "http://www.awswp.com/blossom/ImagesSKBb/BlossomCatalog2008.pdf"
+    aventUrl: "http://www.blossomartcompetition.com/ImagesSKBb/BlossomCatalog2008.pdf"
     dateBegin: "January 25"
     dateEnd: "March 22"
-    sponsor: ~
-    sponsorUrl: ~
+    sponsor: "Susan Kathleen Black Foundation"
+    sponsorUrl: "http://susankblackfoundation.org"
     venue: "The Dixon Gallery And Gardens"
-    venueAddress: ~
+    venueAddress: "4339 Park Avenue"
     venueCity: Memphis
     venueState: TN
-    venueTZip: ~
-    venueUrl: dixon.org
+    venueTZip: 38117
+    venueUrl: "http://dixon.org"
   - 
     aventName: "Susan Kathleen Black Foundation's 'Blossom - Art of Flowers' Museum Exhibition & National Museum Tour"
     aventTitle: ~
-    aventUrl: "http://www.awswp.com/blossom/ImagesSKBb/BlossomCatalog2008.pdf"
+    aventUrl: "http://www.blossomartcompetition.com/ImagesSKBb/Bloss2Catalog.pdf"
     dateBegin: "April 18"
     dateEnd: "June 14"
-    sponsor: ~
-    sponsorUrl: ~
+    sponsor: "Susan Kathleen Black Foundation"
+    sponsorUrl: "http://susankblackfoundation.org"
     venue: "The Spartanburg County Museum Of Art"
-    venueAddress: ~
+    venueAddress: "200 E. St. John Street"
     venueCity: Spartanburg
     venueState: SC
-    venueTZip: ~
-    venueUrl: spartanburgartmuseum.org
+    venueTZip: 29306
+    venueUrl: "http://www.spartanburgartmuseum.org"
 2010: 
   - 
     aventName: "Salon International"
