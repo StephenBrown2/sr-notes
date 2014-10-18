@@ -450,12 +450,12 @@
     aventName: "Summer Salon Show"
     aventTitle: "Annapolis: A Living History"
     aventUrl: "http://www.mcbridegallery.com/showopenings/annapolisalivinghistory2008.html"
-    dateBegin: July 1
-    dateEnd: July 31
+    dateBegin: "July 1"
+    dateEnd: "July 31"
     sponsor: ~
     sponsorUrl: ~
     venue: "McBride Gallery"
-    venueAddress: 215 Main Street
+    venueAddress: "215 Main Street"
     venueCity: Annapolis
     venueState: MD
     venueTZip: 21401
@@ -486,7 +486,7 @@
     venueAddress: "21 Edwards St"
     venueCity: Springfield
     venueState: MA
-    venueTZip: 01103
+    venueTZip: "01103"
     venueUrl: "http://www.springfieldmuseums.org"
   - 
     aventName: "The New Reality: The Frontier of Realism in the 21st Century"
@@ -666,7 +666,7 @@
     sponsor: "Oil Painters of America"
     sponsorUrl: "http://www.oilpaintersofamerica.com"
     venue: "Corse Gallery & Atelier"
-    venueAddress: 4144 Herschel St.
+    venueAddress: "4144 Herschel St."
     venueCity: Jacksonville
     venueState: FL
     venueTZip: 32210
@@ -740,7 +740,7 @@
     venueCity: "San Antonio"
     venueState: TX
     venueTZip: 78209
-    venueUrl:"http://greenhousegallery.com"
+    venueUrl: "http://greenhousegallery.com"
   - 
     aventName: "The New Reality: The Frontier of Realism in the 21st Century"
     aventTitle: "Museum Tour 2008-2011 of Art by Realism Guild Members"
@@ -909,7 +909,7 @@
     venueCity: "San Antonio"
     venueState: TX
     venueTZip: 78209
-    venueUrl:"http://greenhousegallery.com"
+    venueUrl: "http://greenhousegallery.com"
   - 
     aventName: "The New Reality: The Frontier of Realism in the 21st Century"
     aventTitle: "Museum Tour 2008-2011 of Art by Realism Guild Members"
@@ -1615,16 +1615,16 @@
     venueTZip: ~
     venueUrl: ~
   - 
-    aventName: ""
+    aventName: ~
     aventTitle: ~
     aventUrl: ~
     dateBegin: ~
     dateEnd: ~
     sponsor: ~
     sponsorUrl: ~
-    venue: ""
+    venue: ~
     venueAddress: ~
-    venueCity: 
-    venueState: 
+    venueCity: ~
+    venueState: ~
     venueTZip: ~
     venueUrl: ~
