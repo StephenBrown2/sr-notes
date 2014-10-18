@@ -1558,3 +1558,73 @@
     venueState: OK
     venueTZip: ~
     venueUrl: ~
+  - 
+    aventName: "100th Annual Exhibition"
+    aventTitle: ~
+    aventUrl: ~
+    dateBegin: ~
+    dateEnd: ~
+    sponsor: "Allied Artists of America"
+    sponsorUrl: ~
+    venue: ~
+    venueAddress: ~
+    venueCity: "New York"
+    venueState: NY
+    venueTZip: ~
+    venueUrl: ~
+  - 
+    aventName: "OPA Eastern Regional Juried Exhibition"
+    aventTitle: ~
+    aventUrl: ~
+    dateBegin: ~
+    dateEnd: ~
+    sponsor: ~
+    sponsorUrl: ~
+    venue: "Eisele Gallery"
+    venueAddress: ~
+    venueCity: Cincinatti
+    venueState: OH
+    venueTZip: ~
+    venueUrl: ~
+  - 
+    aventName: "9th Annual Juried Exhibition"
+    aventTitle: ~
+    aventUrl: ~
+    dateBegin: ~
+    dateEnd: ~
+    sponsor: "International Guild of Realism"
+    sponsorUrl: ~
+    venue: "Robert Lange Studios"
+    venueAddress: ~
+    venueCity: Charleston
+    venueState: SC
+    venueTZip: ~
+    venueUrl: ~
+  - 
+    aventName: "24th Annual Holiday Miniature Show"
+    aventTitle: ~
+    aventUrl: ~
+    dateBegin: ~
+    dateEnd: ~
+    sponsor: ~
+    sponsorUrl: ~
+    venue: "Abend Gallery of Fine Art"
+    venueAddress: ~
+    venueCity: Denver
+    venueState: CO
+    venueTZip: ~
+    venueUrl: ~
+  - 
+    aventName: ""
+    aventTitle: ~
+    aventUrl: ~
+    dateBegin: ~
+    dateEnd: ~
+    sponsor: ~
+    sponsorUrl: ~
+    venue: ""
+    venueAddress: ~
+    venueCity: 
+    venueState: 
+    venueTZip: ~
+    venueUrl: ~
