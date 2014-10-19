@@ -63,8 +63,8 @@
     aventName: "14th Annual Group Show"
     aventTitle: "Autumn Celebration"
     aventUrl: "http://web.archive.org/web/19991009034605/http://www.mcbridegallery.com/royston.html"
-    dateBegin: "October 24"
-    dateEnd: "November 7"
+    dateBegin: "1999-10-24"
+    dateEnd: "1999-11-07"
     sponsor: ~
     sponsorUrl: ~
     venue: "McBride Gallery"
@@ -166,8 +166,8 @@
     aventName: "International Winter Salon"
     aventTitle: ~
     aventUrl: "http://www.eegallery.com/exh/04.02/index.html"
-    dateBegin: "February 11"
-    dateEnd: "February 29"
+    dateBegin: "2004-02-11"
+    dateEnd: "2004-02-29"
     sponsor: ~
     sponsorUrl: ~
     venue: "Eleanor Ettinger Gallery"
@@ -195,8 +195,8 @@
     aventName: "First Annual International Guild of Realism Juried Exhibition"
     aventTitle: ~
     aventUrl: "http://www.realismguild.com/PreviousExhibitionPanAm031105.html"
-    dateBegin: "March 11"
-    dateEnd: "April 23"
+    dateBegin: "2005-03-11"
+    dateEnd: "2005-04-23"
     sponsor: "International Guild of Realism"
     sponsorUrl: "http://www.realismguild.com"
     venue: "Pan American Art Gallery"
@@ -210,8 +210,8 @@
     aventName: "International Masters of Fine Art Invitational"
     aventTitle: ~
     aventUrl: "http://web.archive.org/web/20061005001851/http://www.internationalmastersoffineart.com/view.asp?file=main.html"
-    dateBegin: "October 10"
-    dateEnd: "October 27"
+    dateBegin: "2006-10-10"
+    dateEnd: "2006-10-27"
     sponsor: "International Museum of Contemporary Masters of Fine Art"
     sponsorUrl: "http://www.imcm.org"
     venue: "Greenhouse Gallery of Fine Art"
@@ -238,8 +238,8 @@
     aventName: "Second Annual International Guild of Realism Juried Exhibition"
     aventTitle: ~
     aventUrl: "http://www.realismguild.com/PreviousExhibitionManitou111506.html"
-    dateBegin: "September 15"
-    dateEnd: "September 30"
+    dateBegin: "2006-09-15"
+    dateEnd: "2006-09-30"
     sponsor: "International Guild of Realism"
     sponsorUrl: "http://www.realismguild.com"
     venue: "Manitou Galleries"
@@ -253,8 +253,8 @@
     aventName: "Susan Kathleen Black Foundation's 'Blossom - Art of Flowers' Museum Exhibition & National Museum Tour"
     aventTitle: ~
     aventUrl: "http://www.awswp.com/blossom/ImagesSKBb/BlossomCatalog2008.pdf"
-    dateBegin: "July 21"
-    dateEnd: "September 16"
+    dateBegin: "2007-07-21"
+    dateEnd: "2007-09-16"
     sponsor: "Susan Kathleen Black Foundation"
     sponsorUrl: "http://susankblackfoundation.org/"
     venue: "Neville Public Museum"
@@ -267,8 +267,8 @@
     aventName: "2007 Annual Small Works Show"
     aventTitle: "Masterpieces for All Seasons"
     aventUrl: "http://web.archive.org/web/20080513173156/http://www.masterfulart.com/Holiday07/MasterpiecesForAllSeason2007.html"
-    dateBegin: "November 23"
-    dateEnd: "December 22"
+    dateBegin: "2007-11-23"
+    dateEnd: "2007-12-22"
     sponsor: ~
     sponsorUrl: ~
     venue: "Winstanley-Roark Fine Arts"
@@ -281,8 +281,8 @@
     aventName: "Contemporary Still-life Show"
     aventTitle: "Objets D'Art: The Art of the Modern-Day Still Life"
     aventUrl: ~
-    dateBegin: "August 25"
-    dateEnd: "August 25"
+    dateBegin: "2007-08-25"
+    dateEnd: "2007-08-25"
     sponsor: ~
     sponsorUrl: ~
     venue: "Winstanley-Roark Fine Arts"
@@ -295,8 +295,8 @@
     aventName: "International Guild of Realism Summer Show"
     aventTitle: "Leading Masters of Contemporary Realism"
     aventUrl: "http://www.realismguild.com/PreviousExhibitionCapeCod2007.html"
-    dateBegin: "July 24"
-    dateEnd: "August 7"
+    dateBegin: "2007-07-24"
+    dateEnd: "2007-08-07"
     sponsor: "International Guild of Realism"
     sponsorUrl: "http://www.realismguild.com"
     venue: "Winstanley-Roark Fine Arts"
@@ -309,8 +309,8 @@
     aventName: "25th Anniversary Celebration"
     aventTitle: ~
     aventUrl: "http://web.archive.org/web/20070214122729/http://www.greenhousegallery.com/cgi-bin/mp/exhibits.pl?exhibitid=Silver&title=25th%20Anniversary%20Celebration%20-%20More%20Work%20Coming%20Soon"
-    dateBegin: "February 17"
-    dateEnd: "March 9"
+    dateBegin: "2007-02-17"
+    dateEnd: "2007-03-09"
     sponsor: ~
     sponsorUrl: ~
     venue: "Greenhouse Gallery of Fine Art"
@@ -323,8 +323,8 @@
     aventName: "International Masters of Fine Art Invitational"
     aventTitle: ~
     aventUrl: "http://web.archive.org/web/20070901130641/http://www.greenhousegallery.com/cgi-bin/mp/exhibits.pl?exhibitid=imfa07&title=International%20Masters%20of%20Fine%20Art%202007"
-    dateBegin: "October 6"
-    dateEnd: "October 26"
+    dateBegin: "2007-10-06"
+    dateEnd: "2007-10-26"
     sponsor: "International Museum of Contemporary Masters of Fine Art"
     sponsorUrl: "http://www.imcm.org"
     venue: "Greenhouse Gallery of Fine Art"
@@ -338,8 +338,8 @@
     aventName: "Salon International"
     aventTitle: ~
     aventUrl: "http://web.archive.org/web/20081006165433/http://www.greenhousegallery.com/cgi-bin/mp/exhibits.pl?exhibitid=si2008&title=Salon%20International%202008"
-    dateBegin: "April 12"
-    dateEnd: "May 2"
+    dateBegin: "2008-04-12"
+    dateEnd: "2008-05-02"
     sponsor: "International Museum of Contemporary Masters of Fine Art"
     sponsorUrl: "http://www.imcm.org"
     venue: "Greenhouse Gallery of Fine Art"
@@ -352,8 +352,8 @@
     aventName: "26th Anniversary Exhibit"
     aventTitle: ~
     aventUrl: ~
-    dateBegin: "February 6"
-    dateEnd: "March 7"
+    dateBegin: "2008-02-06"
+    dateEnd: "2008-03-07"
     sponsor: ~
     sponsorUrl: ~
     venue: "Greenhouse Gallery of Fine Art"
@@ -366,8 +366,8 @@
     aventName: "The American Juried Art Salon Fall/Winter Show"
     aventTitle: ~
     aventUrl: "http://web.archive.org/web/20090220162417/http://www.artjury.com/GalleriesCandD/GalleryD.html"
-    dateBegin: "December 12"
-    dateEnd: "June 12, 2009"
+    dateBegin: "2008-12-12"
+    dateEnd: "2009-06-12"
     sponsor: "The American Juried Art Salon"
     sponsorUrl: "http://www.artjury.com"
     venue: Online
@@ -380,8 +380,8 @@
     aventName: "OPA Eastern Regional Juried Exhibition"
     aventTitle: ~
     aventUrl: ~
-    dateBegin: "October 17"
-    dateEnd: "November 15"
+    dateBegin: "2008-10-17"
+    dateEnd: "2008-11-15"
     sponsor: "Oil Painters of America"
     sponsorUrl: "http://www.oilpaintersofamerica.com"
     venue: "Richland Fine Art"
@@ -394,8 +394,8 @@
     aventName: "The Richeson75: International Still Life & Floral Art Competition"
     aventTitle: ~
     aventUrl: "http://web.archive.org/web/20081225194840/http://www.richeson75.com/stilllife/index.html"
-    dateBegin: "November 14"
-    dateEnd: "January 5, 2009"
+    dateBegin: "2008-11-14"
+    dateEnd: "2009-01-05"
     sponsor: "Jack Richeson & Co., Inc."
     sponsorUrl: "http://www.richesonart.com"
     venue: "Richeson School of Art and Gallery"
@@ -408,8 +408,8 @@
     aventName: "Trompe L'oeil, 19th - 21st Century"
     aventTitle: "Captivating Viewers with the Art of Illusion"
     aventUrl: "http://www.artnet.com/galleries/somerville-manning-gallery/trompe-loeil-19th-21st-century/"
-    dateBegin: "October 10"
-    dateEnd: "November 8"
+    dateBegin: "2008-10-10"
+    dateEnd: "2008-11-08"
     sponsor: ~
     sponsorUrl: ~
     venue: "Somerville Manning Gallery"
@@ -422,8 +422,8 @@
     aventName: "The Richeson75: Small Works Competition"
     aventTitle: ~
     aventUrl: "http://www.wetcanvas.com/forums/attachment.php?attachmentid=382530&d=1200270238"
-    dateBegin: "April 25"
-    dateEnd: "June 1"
+    dateBegin: "2008-04-25"
+    dateEnd: "2008-06-01"
     sponsor: "Jack Richeson & Co., Inc."
     sponsorUrl: "http://www.richesonart.com"
     venue: "Richeson School of Art and Gallery"
@@ -436,8 +436,8 @@
     aventName: "17th Annual National Juried Exhibition of Traditional Oils"
     aventTitle: ~
     aventUrl: "http://www.danagallery.com/exhibits/may08.html"
-    dateBegin: "May 2"
-    dateEnd: "June 15"
+    dateBegin: "2008-05-02"
+    dateEnd: "2008-06-15"
     sponsor: "Oil Painters of America"
     sponsorUrl: "http://www.oilpaintersofamerica.com"
     venue: "Dana Gallery"
@@ -450,8 +450,8 @@
     aventName: "Summer Salon Show"
     aventTitle: "Annapolis: A Living History"
     aventUrl: "http://www.mcbridegallery.com/showopenings/annapolisalivinghistory2008.html"
-    dateBegin: "July 1"
-    dateEnd: "July 31"
+    dateBegin: "2008-07-01"
+    dateEnd: "2008-07-31"
     sponsor: ~
     sponsorUrl: ~
     venue: "McBride Gallery"
@@ -464,8 +464,8 @@
     aventName: "The New Reality: The Frontier of Realism in the 21st Century"
     aventTitle: "Museum Tour 2008-2011 of Art by Realism Guild Members"
     aventUrl: "http://www.realismguild.com/PreviousExhibitionWichita2008.html"
-    dateBegin: "April 27"
-    dateEnd: "June 22"
+    dateBegin: "2008-04-27"
+    dateEnd: "2008-06-22"
     sponsor: "The International Guild of Realism"
     sponsorUrl: "http://www.realismguild.com"
     venue: "Wichita Art Museum"
@@ -478,8 +478,8 @@
     aventName: "The New Reality: The Frontier of Realism in the 21st Century"
     aventTitle: "Museum Tour 2008-2011 of Art by Realism Guild Members"
     aventUrl: "http://www.realismguild.com/PreviousExhibitionSpringfield2008.html"
-    dateBegin: "July 13"
-    dateEnd: "November 23"
+    dateBegin: "2008-07-13"
+    dateEnd: "2008-11-23"
     sponsor: "The International Guild of Realism"
     sponsorUrl: "http://www.realismguild.com"
     venue: "The Springfield Museums"
@@ -492,8 +492,8 @@
     aventName: "The New Reality: The Frontier of Realism in the 21st Century"
     aventTitle: "Museum Tour 2008-2011 of Art by Realism Guild Members"
     aventUrl: "http://www.realismguild.com/PreviousExhibitionNorton2008.html"
-    dateBegin: "December 16, 2008"
-    dateEnd: "February 15, 2009"
+    dateBegin: "2008-12-16"
+    dateEnd: "2009-02-15"
     sponsor: "The International Guild of Realism"
     sponsorUrl: "http://www.realismguild.com"
     venue: "R.W. Norton Art Gallery"
@@ -506,8 +506,8 @@
     aventName: "Third Annual International Guild of Realism Juried Exhibition"
     aventTitle: ~
     aventUrl: "http://www.realismguild.com/PreviousExhibitionSFA2008.html"
-    dateBegin: "January 13"
-    dateEnd: "January 30"
+    dateBegin: "2008-01-13"
+    dateEnd: "2008-01-30"
     sponsor: "International Guild of Realism"
     sponsorUrl: "http://www.realismguild.com"
     venue: "Scottsdale Fine Art"
@@ -520,8 +520,8 @@
     aventName: "International Masters of Fine Art Invitational"
     aventTitle: ~
     aventUrl: "http://web.archive.org/web/20090331102733/http://www.internationalmastersoffineart.com/view.asp?file=main.html"
-    dateBegin: "October 3"
-    dateEnd: "October 17"
+    dateBegin: "2008-10-03"
+    dateEnd: "2008-10-17"
     sponsor: "International Masters of Fine Art"
     sponsorUrl: "http://web.archive.org/web/20130807121509/http://www.internationalmastersoffineart.com/"
     venue: "International Museum of Contemporary Masters of Fine Art at the Greenhouse Gallery of Fine Art"
@@ -534,8 +534,8 @@
     aventName: "Susan Kathleen Black Foundation's 'Blossom - Art of Flowers' Museum Exhibition & National Museum Tour"
     aventTitle: ~
     aventUrl: "http://www.awswp.com/blossom/ImagesSKBb/BlossomCatalog2008.pdf"
-    dateBegin: "January 1"
-    dateEnd: "March 31"
+    dateBegin: "2008-01-01"
+    dateEnd: "2008-03-31"
     sponsor: "Susan Kathleen Black Foundation"
     sponsorUrl: "http://susankblackfoundation.org"
     venue: "Arizona-Sonora Desert Museum Art Institute"
@@ -548,8 +548,8 @@
     aventName: "Susan Kathleen Black Foundation's 'Blossom - Art of Flowers' Museum Exhibition & National Museum Tour"
     aventTitle: ~
     aventUrl: "http://www.awswp.com/blossom/ImagesSKBb/BlossomCatalog2008.pdf"
-    dateBegin: "May 13"
-    dateEnd: "August 3"
+    dateBegin: "2008-05-13"
+    dateEnd: "2008-08-03"
     sponsor: "Susan Kathleen Black Foundation"
     sponsorUrl: "http://susankblackfoundation.org"
     venue: "The R.W. Norton Art Gallery"
@@ -562,8 +562,8 @@
     aventName: "Susan Kathleen Black Foundation's 'Blossom - Art of Flowers' Museum Exhibition & National Museum Tour"
     aventTitle: ~
     aventUrl: "http://www.awswp.com/blossom/ImagesSKBb/BlossomCatalog2008.pdf"
-    dateBegin: "August 30"
-    dateEnd: "November 2"
+    dateBegin: "2008-08-30"
+    dateEnd: "2008-11-02"
     sponsor: "Susan Kathleen Black Foundation"
     sponsorUrl: "http://susankblackfoundation.org"
     venue: "The Wildlife Experience"
@@ -577,8 +577,8 @@
     aventName: "Salon International"
     aventTitle: ~
     aventUrl: "http://web.archive.org/web/20090615093819/http://www.greenhousegallery.com/cgi-bin/mp/exhibits.pl?exhibitid=si2009&title=Salon%20International%202009"
-    dateBegin: "April 11"
-    dateEnd: "May 1"
+    dateBegin: "2009-04-11"
+    dateEnd: "2009-05-01"
     sponsor: "International Museum of Contemporary Masters of Fine Art"
     sponsorUrl: "http://www.imcm.org"
     venue: "Greenhouse Gallery of Fine Art"
@@ -591,8 +591,8 @@
     aventName: "27th Anniversary Celebration"
     aventTitle: ~
     aventUrl: "https://web.archive.org/web/20081222061329/http://www.greenhousegallery.com/cgi-bin/mp/exhibitlist.pl?id=Current"
-    dateBegin: "February 17"
-    dateEnd: "March 6"
+    dateBegin: "2009-02-17"
+    dateEnd: "2009-03-06"
     sponsor: ~
     sponsorUrl: ~
     venue: "Greenhouse Gallery of Fine Art"
@@ -605,8 +605,8 @@
     aventName: "Summer Salon Show Invitational Exhibit"
     aventTitle: ~
     aventUrl: "http://www.mcbridegallery.com/showopenings/2009julysummersalonshow.html"
-    dateBegin: "July 1"
-    dateEnd: "July 31"
+    dateBegin: "2009-07-01"
+    dateEnd: "2009-07-31"
     sponsor: ~
     sponsorUrl: ~
     venue: "McBride Gallery"
@@ -619,8 +619,8 @@
     aventName: "Art League of Hilton Head National Juried Art Exhibition"
     aventTitle: "Salty Dog HHI"
     aventUrl: ~
-    dateBegin: "May 2nd"
-    dateEnd: "May 24th"
+    dateBegin: "2009-05-02"
+    dateEnd: "2009-05-24"
     sponsor: "Art League of Hilton Head"
     sponsorUrl: "http://artleaguehhi.com"
     venue: "Walter Greer Gallery at Arts Center of Coastal Carolina"
@@ -633,8 +633,8 @@
     aventName: "96th Annual Exhibition"
     aventTitle: ~
     aventUrl: "https://web.archive.org/web/20100930050451/http://nationalartsclub.org/event_pub/NACnovember2009gallery.pdf"
-    dateBegin: "November 13"
-    dateEnd: "December 1"
+    dateBegin: "2009-11-13"
+    dateEnd: "2009-12-01"
     sponsor: "Allied Artists of America"
     sponsorUrl: "http://www.alliedartistsofamerica.org"
     venue: "National Arts Club Gallery"
@@ -647,8 +647,8 @@
     aventName: "7th Annual Miniature Show"
     aventTitle: "Winter Group Show"
     aventUrl: ~
-    dateBegin: "November 27"
-    dateEnd: "December 19"
+    dateBegin: "2009-11-27"
+    dateEnd: "2009-12-19"
     sponsor: ~
     sponsorUrl: ~
     venue: "Sage Creek Gallery"
@@ -661,8 +661,8 @@
     aventName: "OPA Eastern Regional Juried Exhibition"
     aventTitle: "2009 Eastern Regional Exhibition"
     aventUrl: "http://www.oilpaintersofamerica.com/awardees.cfm?year=2009#eastern"
-    dateBegin: "November 20"
-    dateEnd: "December 23"
+    dateBegin: "2009-11-20"
+    dateEnd: "2009-12-23"
     sponsor: "Oil Painters of America"
     sponsorUrl: "http://www.oilpaintersofamerica.com"
     venue: "Corse Gallery & Atelier"
@@ -675,8 +675,8 @@
     aventName: "'Welcome Back!' Group Show"
     aventTitle: ~
     aventUrl: "http://weatherburn.com/events/index.cfm?id=10"
-    dateBegin: "November 28"
-    dateEnd: "November 28"
+    dateBegin: "2009-11-28"
+    dateEnd: "2009-11-28"
     sponsor: ~
     sponsorUrl: ~
     venue: "Weatherburn Gallery"
@@ -689,8 +689,8 @@
     aventName: "18th Annual National Juried Exhibition of Traditional Oils"
     aventTitle: ~
     aventUrl: "http://www.oilpaintersofamerica.com/awardees.cfm?year=2009#national"
-    dateBegin: "May 1"
-    dateEnd: "May 31"
+    dateBegin: "2009-05-01"
+    dateEnd: "2009-05-31"
     sponsor: "Oil Painters of America"
     sponsorUrl: "http://www.oilpaintersofamerica.com"
     venue: "Sage Creek Gallery"
@@ -703,8 +703,8 @@
     aventName: "'Winter is Beautiful' Group Show"
     aventTitle: ~
     aventUrl: "http://mcbridegallery.com/showopenings/2009winterisbeautiful.html"
-    dateBegin: "January 2"
-    dateEnd: "January 25"
+    dateBegin: "2009-01-02"
+    dateEnd: "2009-01-25"
     sponsor: ~
     sponsorUrl: ~
     venue: "McBride Gallery"
@@ -717,8 +717,8 @@
     aventName: "Fourth Annual International Guild of Realism Juried Exhibition"
     aventTitle: ~
     aventUrl: "http://www.realismguild.com/PreviousExhibitionWeatherBurn2009.html"
-    dateBegin: "February 17"
-    dateEnd: "March 3"
+    dateBegin: "2009-02-17"
+    dateEnd: "2009-03-03"
     sponsor: "International Guild of Realism"
     sponsorUrl: "http://www.realismguild.com"
     venue: "Weatherburn Gallery"
@@ -731,8 +731,8 @@
     aventName: "International Masters of Fine Art Invitational"
     aventTitle: ~
     aventUrl: ~
-    dateBegin: "October 2"
-    dateEnd: "October 16"
+    dateBegin: "2009-10-02"
+    dateEnd: "2009-10-16"
     sponsor: "International Masters of Fine Art"
     sponsorUrl: "http://archived.link/www.internationalmastersoffineart.com"
     venue: "International Museum of Contemporary Masters of Fine Art at the Greenhouse Gallery of Fine Art"
@@ -745,8 +745,8 @@
     aventName: "The New Reality: The Frontier of Realism in the 21st Century"
     aventTitle: "Museum Tour 2008-2011 of Art by Realism Guild Members"
     aventUrl: "http://www.realismguild.com/PreviousExhibitionOwensboro2009.html"
-    dateBegin: "May 24"
-    dateEnd: "July 16"
+    dateBegin: "2009-05-24"
+    dateEnd: "2009-07-16"
     sponsor: "The International Guild of Realism"
     sponsorUrl: "http://www.realismguild.com"
     venue: "Owensboro Museum of Fine Art"
@@ -759,8 +759,8 @@
     aventName: "The New Reality: The Frontier of Realism in the 21st Century"
     aventTitle: "Museum Tour 2008-2011 of Art by Realism Guild Members"
     aventUrl: "http://www.realismguild.com/PreviousExhibitionCityofLakeCharles2009.html"
-    dateBegin: "August 14"
-    dateEnd: "October 17"
+    dateBegin: "2009-08-14"
+    dateEnd: "2009-10-17"
     sponsor: "The International Guild of Realism"
     sponsorUrl: "http://www.realismguild.com"
     venue: "City of Lake Charles - Historic City Hall Arts & Cultural Center"
@@ -773,8 +773,8 @@
     aventName: "The New Reality: The Frontier of Realism in the 21st Century"
     aventTitle: "Museum Tour 2008-2011 of Art by Realism Guild Members"
     aventUrl: "http://www.realismguild.com/PreviousExhibitionTechTexas2010.html"
-    dateBegin: "November 8"
-    dateEnd: "January 3, 2010"
+    dateBegin: "2009-11-08"
+    dateEnd: "2010-01-03"
     sponsor: "The International Guild of Realism"
     sponsorUrl: "http://www.realismguild.com"
     venue: "Museum of Texas Tech University"
@@ -787,8 +787,8 @@
     aventName: "Susan Kathleen Black Foundation's 'Blossom - Art of Flowers' Museum Exhibition & National Museum Tour"
     aventTitle: ~
     aventUrl: "http://www.blossomartcompetition.com/ImagesSKBb/BlossomCatalog2008.pdf"
-    dateBegin: "January 25"
-    dateEnd: "March 22"
+    dateBegin: "2009-01-25"
+    dateEnd: "2009-03-22"
     sponsor: "Susan Kathleen Black Foundation"
     sponsorUrl: "http://susankblackfoundation.org"
     venue: "The Dixon Gallery And Gardens"
@@ -801,8 +801,8 @@
     aventName: "Susan Kathleen Black Foundation's 'Blossom - Art of Flowers' Museum Exhibition & National Museum Tour"
     aventTitle: ~
     aventUrl: "http://www.blossomartcompetition.com/ImagesSKBb/Bloss2Catalog.pdf"
-    dateBegin: "April 18"
-    dateEnd: "June 14"
+    dateBegin: "2009-04-18"
+    dateEnd: "2009-04-14"
     sponsor: "Susan Kathleen Black Foundation"
     sponsorUrl: "http://susankblackfoundation.org"
     venue: "The Spartanburg County Museum Of Art"
@@ -816,8 +816,8 @@
     aventName: "Salon International 2010"
     aventTitle: ~
     aventUrl: ~
-    dateBegin: "April 10"
-    dateEnd: "April 30"
+    dateBegin: "2010-04-10"
+    dateEnd: "2010-04-30"
     sponsor: "International Museum of Contemporary Masters of Fine Art"
     sponsorUrl: "http://www.imcm.org"
     venue: "Greenhouse Gallery of Fine Art"
@@ -830,8 +830,8 @@
     aventName: "28th Anniversary Show"
     aventTitle: ~
     aventUrl: "http://web.archive.org/web/20110529082539/http://www.greenhousegallery.com/cgi-bin/mp/exhibits.pl?exhibitid=anniv10&title=Building%20The%20Anniversary%20Exhibit%20-%20Celebrating%2028%20Years"
-    dateBegin: "February 9"
-    dateEnd: "February 26"
+    dateBegin: "2010-02-09"
+    dateEnd: "2010-02-26"
     sponsor: ~
     sponsorUrl: ~
     venue: "Greenhouse Gallery of Fine Art"
@@ -844,8 +844,8 @@
     aventName: "97th Annual Exhibition"
     aventTitle: ~
     aventUrl: "https://web.archive.org/web/20101126094204/http://nationalartsclub.org/event_pub/november2010gallery.pdf"
-    dateBegin: "November 11"
-    dateEnd: "November 30"
+    dateBegin: "2010-11-11"
+    dateEnd: "2010-11-30"
     sponsor: "Allied Artists of America"
     sponsorUrl: "http://www.alliedartistsofamerica.org"
     venue: "National Arts Club Gallery"
@@ -858,8 +858,8 @@
     aventName: "OPA Eastern Regional Juried Exhibition"
     aventTitle: "2010 Eastern Regional Exhibition"
     aventUrl: "http://www.oilpaintersofamerica.com/events/exhibitions/2010/eastern/index.cfm"
-    dateBegin: "October 15"
-    dateEnd: "November 13"
+    dateBegin: "2010-10-15"
+    dateEnd: "2010-11-13"
     sponsor: "Oil Painters of America"
     sponsorUrl: "http://www.oilpaintersofamerica.com"
     venue: "Walls Fine Art Gallery"
@@ -872,8 +872,8 @@
     aventName: "30th Anniversary Show"
     aventTitle: ~
     aventUrl: "http://www.mcbridegallery.com/showopenings/30thanniversaryshow.html"
-    dateBegin: "June 6"
-    dateEnd: "June 30"
+    dateBegin: "2010-06-06"
+    dateEnd: "2010-06-30"
     sponsor: ~
     sponsorUrl: ~
     venue: "McBride Gallery"
@@ -886,8 +886,8 @@
     aventName: "International Guild of Realism Fifth Annual Juried Exhibition"
     aventTitle: ~
     aventUrl: "http://www.realismguild.com/PreviousExhibitionWillottGallery2010.html"
-    dateBegin: "February 8"
-    dateEnd: "February 26"
+    dateBegin: "2010-02-08"
+    dateEnd: "2010-02-26"
     sponsor: "International Guild of Realism"
     sponsorUrl: "http://www.realismguild.com"
     venue: "J. Willott Gallery"
@@ -900,8 +900,8 @@
     aventName: "International Masters of Fine Art Invitational"
     aventTitle: ~
     aventUrl: "http://web.archive.org/web/20100920203517/http://greenhousegallery.com/cgi-bin/mp/exhibits.pl?exhibitid=imfa10&title=International%20Masters%20of%20Fine%20Art"
-    dateBegin: "September 28"
-    dateEnd: "October 22"
+    dateBegin: "2010-09-28"
+    dateEnd: "2010-10-22"
     sponsor: "International Masters of Fine Art"
     sponsorUrl: "http://archived.link/www.internationalmastersoffineart.com"
     venue: "International Museum of Contemporary Masters of Fine Art at the Greenhouse Gallery of Fine Art"
@@ -914,8 +914,8 @@
     aventName: "The New Reality: The Frontier of Realism in the 21st Century"
     aventTitle: "Museum Tour 2008-2011 of Art by Realism Guild Members"
     aventUrl: "http://www.realismguild.com/PreviousExhibitionOcalaAppleton2010.html"
-    dateBegin: "January 24"
-    dateEnd: "March 21"
+    dateBegin: "2010-01-24"
+    dateEnd: "2010-03-21"
     sponsor: "International Guild of Realism"
     sponsorUrl: "http://www.realismguild.com"
     venue: "Appleton Museum of Art"
@@ -928,8 +928,8 @@
     aventName: "The New Reality: The Frontier of Realism in the 21st Century"
     aventTitle: "Museum Tour 2008-2011 of Art by Realism Guild Members"
     aventUrl: "http://www.realismguild.com/PreviousExhibitionTheNewReality2008-2011.html"
-    dateBegin: "June 27"
-    dateEnd: "August 22"
+    dateBegin: "2010-06-27"
+    dateEnd: "2010-08-22"
     sponsor: "International Guild of Realism"
     sponsorUrl: "http://www.realismguild.com"
     venue: "Leigh Yawkey Woodson Art Museum"
@@ -942,8 +942,8 @@
     aventName: "The New Reality: The Frontier of Realism in the 21st Century"
     aventTitle: "Museum Tour 2008-2011 of Art by Realism Guild Members"
     aventUrl: "http://www.realismguild.com/PreviousExhibitionTheNewReality2008-2011.html"
-    dateBegin: "September 12"
-    dateEnd: "November 7"
+    dateBegin: "2010-09-12"
+    dateEnd: "2010-11-07"
     sponsor: "International Guild of Realism"
     sponsorUrl: "http://www.realismguild.com"
     venue: "Indian Hills Community College"
@@ -956,8 +956,8 @@
     aventName: "The New Reality: The Frontier of Realism in the 21st Century"
     aventTitle: "Museum Tour 2008-2011 of Art by Realism Guild Members"
     aventUrl: "http://www.realismguild.com/PreviousExhibitionTheNewReality2008-2011.html"
-    dateBegin: "December 4"
-    dateEnd: "February 27, 2011"
+    dateBegin: "2010-12-04"
+    dateEnd: "2011-02-27"
     sponsor: "International Guild of Realism"
     sponsorUrl: "http://www.realismguild.com"
     venue: "University of Mary Washington - Gari Melchers Museum"
@@ -971,8 +971,8 @@
     aventName: "Salon International 2011"
     aventTitle: ~
     aventUrl: "https://web.archive.org/web/20110705095337/http://greenhousegallery.com/cgi-bin/mp/exhibits.pl?exhibitid=si2011&title=Salon%20International%202011"
-    dateBegin: "April 2"
-    dateEnd: "April 22"
+    dateBegin: "2011-04-02"
+    dateEnd: "2011-04-22"
     sponsor: "International Museum of Contemporary Masters of Fine Art"
     sponsorUrl: "http://www.imcm.org"
     venue: "Greenhouse Gallery of Fine Art"
@@ -985,8 +985,8 @@
     aventName: "29th Anniversary Show"
     aventTitle: ~
     aventUrl: ~
-    dateBegin: "February 8"
-    dateEnd: "February 25"
+    dateBegin: "2011-02-08"
+    dateEnd: "2011-02-25"
     sponsor: ~
     sponsorUrl: ~
     venue: "Greenhouse Gallery of Fine Art"
@@ -999,8 +999,8 @@
     aventName: "'Small Gems' Group Show"
     aventTitle: ~
     aventUrl: ~
-    dateBegin: "November 15"
-    dateEnd: "December 31"
+    dateBegin: "2011-11-15"
+    dateEnd: "2011-12-31"
     sponsor: ~
     sponsorUrl: ~
     venue: "McBride Gallery"
@@ -1013,8 +1013,8 @@
     aventName: "OPA Eastern Regional Juried Exhibition"
     aventTitle: "2011 Eastern Regional Exhibition"
     aventUrl: "http://www.oilpaintersofamerica.com/events/exhibitions/2011/eastern/index.cfm"
-    dateBegin: "September 17"
-    dateEnd: "October 15"
+    dateBegin: "2011-09-17"
+    dateEnd: "2011-10-15"
     sponsor: "Oil Painters of America"
     sponsorUrl: "http://www.oilpaintersofamerica.com"
     venue: "Addison Art Gallery"
@@ -1027,8 +1027,8 @@
     aventName: "Still Life & Trompe L'Oeil Show"
     aventTitle: "Still Life with Life"
     aventUrl: "http://www.mcbridegallery.com/showopenings/2011stilllifewithlifepg2.html"
-    dateBegin: "June 5"
-    dateEnd: "June 26"
+    dateBegin: "2011-06-05"
+    dateEnd: "2011-06-26"
     sponsor: ~
     sponsorUrl: ~
     venue: "McBride Gallery"
@@ -1041,8 +1041,8 @@
     aventName: "Spring Festival Exhibit"
     aventTitle: "Spring Festival - All Gallery Exhibit"
     aventUrl: "https://web.archive.org/web/20110705095238/http://greenhousegallery.com/cgi-bin/mp/exhibits.pl?exhibitid=spring11&title=Spring%20Festival%20-%20All%20Gallery%20Exhibit:%20Featuring%20Kathryn%20Stats"
-    dateBegin: "May 10"
-    dateEnd: "May 29"
+    dateBegin: "2011-05-10"
+    dateEnd: "2011-05-29"
     sponsor: ~
     sponsorUrl: ~
     venue: "Greenhouse Gallery of Fine Art"
@@ -1055,8 +1055,8 @@
     aventName: "Summer Salon Show Invitational Exhibit"
     aventTitle: "Exploring Interiors"
     aventUrl: "http://www.mcbridegallery.com/showopenings/2011_exploringinteriorsjuly.html"
-    dateBegin: "Jusy 1"
-    dateEnd: "July 31"
+    dateBegin: "2011-07-01"
+    dateEnd: "2011-07-31"
     sponsor: ~
     sponsorUrl: ~
     venue: "McBride Gallery"
@@ -1069,8 +1069,8 @@
     aventName: "27th Annual National Show"
     aventTitle: "27th Annual National Juried Show"
     aventUrl: "http://www.nval.org/2011_National_Show_NRXO.html"
-    dateBegin: "January 25"
-    dateEnd: "February 26"
+    dateBegin: "2011-01-25"
+    dateEnd: "2011-02-26"
     sponsor: "North Valley Art League"
     sponsorUrl: "http://www.nval.org"
     venue: "Carter House Gallery"
@@ -1083,8 +1083,8 @@
     aventName: "National Juried Art Exhibition"
     aventTitle: "2011 Biennale National Juried Art Exhibition"
     aventUrl: ~
-    dateBegin: "May 6"
-    dateEnd: "May 29"
+    dateBegin: "2011-05-06"
+    dateEnd: "2011-05-29"
     sponsor: "Art League of Hilton Head"
     sponsorUrl: "http://artleaguehhi.com"
     venue: "Walter Greer Gallery at Arts Center of Coastal Carolina"
@@ -1097,8 +1097,8 @@
     aventName: "International Masters of Fine Art Invitational"
     aventTitle: ~
     aventUrl: "https://web.archive.org/web/20110813061718/http://greenhousegallery.com/cgi-bin/mp/exhibitlist.pl?id=Current"
-    dateBegin: "September 27"
-    dateEnd: "October 21"
+    dateBegin: "2011-09-27"
+    dateEnd: "2011-10-21"
     sponsor: "International Masters of Fine Art"
     sponsorUrl: "http://archived.link/www.internationalmastersoffineart.com"
     venue: "International Museum of Contemporary Masters of Fine Art at the Greenhouse Gallery of Fine Art"
@@ -1112,8 +1112,8 @@
     aventName: "Salon International 2012"
     aventTitle: ~
     aventUrl: "https://web.archive.org/web/20130909095659/http://www.greenhousegallery.com/cgi-bin/mp/exhibits.pl?exhibitid=si2012&title=Salon%20International%202012"
-    dateBegin: "April 14"
-    dateEnd: "May 4"
+    dateBegin: "2012-04-14"
+    dateEnd: "2012-05-04"
     sponsor: "International Masters of Fine Art"
     sponsorUrl: "http://archived.link/www.internationalmastersoffineart.com"
     venue: "International Museum of Contemporary Masters of Fine Art at the Greenhouse Gallery of Fine Art"
@@ -1126,8 +1126,8 @@
     aventName: "'Settler's West' Show"
     aventTitle: "Summer Show?"
     aventUrl: "http://web.archive.org/web/20120508204506/http://settlerswest.com/html/summer.html"
-    dateBegin: "May 5"
-    dateEnd: "May 10"
+    dateBegin: "2012-05-05"
+    dateEnd: "2012-05-10"
     sponsor: "Settlers West"
     sponsorUrl: "http://settlerswest.com"
     venue: "Sanders Galleries"
@@ -1140,8 +1140,8 @@
     aventName: "'Small Gems' Group Show"
     aventTitle: ~
     aventUrl: "https://web.archive.org/web/20120308125653/http://www.mcbridegallery.com/showsched.html"
-    dateBegin: "December 1"
-    dateEnd: "December 31"
+    dateBegin: "2012-12-01"
+    dateEnd: "2012-12-31"
     sponsor: ~
     sponsorUrl: ~
     venue: "McBride Gallery"
@@ -1154,8 +1154,8 @@
     aventName: "Small Treasures Exhibit"
     aventTitle: "'Small Treasures' Juried Exhibition"
     aventUrl: "http://web.archive.org/web/20130218021524/http://www.beautyartgallery.net/treasure.html"
-    dateBegin: "December 1"
-    dateEnd: "January 10"
+    dateBegin: "2012-12-01"
+    dateEnd: "2012-01-10"
     sponsor: ~
     sponsorUrl: ~
     venue: "Beauty Art Gallery"
@@ -1168,8 +1168,8 @@
     aventName: "'Best of America! 2012' Show"
     aventTitle: ~
     aventUrl: "http://www.noaps.org/html/boae_2012.html"
-    dateBegin: "October 14"
-    dateEnd: "December 1"
+    dateBegin: "2012-10-14"
+    dateEnd: "2012-12-01"
     sponsor: "National Oil and Acrylic Painter's Society"
     sponsorUrl: "http://www.noaps.org"
     venue: 
@@ -1192,8 +1192,8 @@
     aventName: "OPA Eastern Regional Juried Exhibition"
     aventTitle: "2012 Eastern Regional Exhibition"
     aventUrl: "http://www.oilpaintersofamerica.com/events/exhibitions/2012/eastern/index.cfm"
-    dateBegin: "September 29"
-    dateEnd: "October 28"
+    dateBegin: "2012-09-29"
+    dateEnd: "2012-10-28"
     sponsor: ~
     sponsorUrl: ~
     venue: "Bennington Center for the Arts"
@@ -1206,8 +1206,8 @@
     aventName: "National Contemporary Realism 2012"
     aventTitle: ~
     aventUrl: ~
-    dateBegin: "May 10"
-    dateEnd: "June 16"
+    dateBegin: "2012-05-10"
+    dateEnd: "2012-06-16"
     sponsor: ~
     sponsorUrl: ~
     venue: "M.A. Doran Gallery"
@@ -1220,8 +1220,8 @@
     aventName: "2nd Scottsdale Salon of Fine Art"
     aventTitle: ~
     aventUrl: "http://www.scottsdalesalonoffineart.com"
-    dateBegin: "April 20"
-    dateEnd: "May 20"
+    dateBegin: "2012-04-20"
+    dateEnd: "2012-05-20"
     sponsor: "Scottsdale Salon of Fine Art"
     sponsorUrl: "http://www.scottsdalesalonoffineart.com"
     venue: "Legacy Gallery"
@@ -1234,8 +1234,8 @@
     aventName: "28th Annual National Show"
     aventTitle: "28th Annual Juried National Show"
     aventUrl: "http://www.nval.org/2012_National_Show.html"
-    dateBegin: "January 24"
-    dateEnd: "February 25"
+    dateBegin: "2012-01-24"
+    dateEnd: "2012-02-25"
     sponsor: "North Valley Art League"
     sponsorUrl: "http://www.nval.org"
     venue: "Carter House Gallery"
@@ -1248,8 +1248,8 @@
     aventName: "30th Anniversary Celebration Show"
     aventTitle: ~
     aventUrl: "https://web.archive.org/web/20120121204901/http://greenhousegallery.com/cgi-bin/mp/exhibits.pl?exhibitid=anniv30&title=30th%20Anniversary%20Celebration"
-    dateBegin: "February 1"
-    dateEnd: "February 24"
+    dateBegin: "2012-02-01"
+    dateEnd: "2012-02-24"
     sponsor: ~
     sponsorUrl: ~
     venue: "Greenhouse Gallery of Fine Art"
@@ -1262,8 +1262,8 @@
     aventName: "From What I Remember/From What I Forget"
     aventTitle: ~
     aventUrl: "http://myemail.constantcontact.com/A-Broad-Street-Studio-Curated-Exhibition--From-What-I-Remember---From-What-I-Forget.html?soid=1103050552174&aid=6zjhr13xDuo"
-    dateBegin: "January 20"
-    dateEnd: "January 20"
+    dateBegin: "2012-01-20"
+    dateEnd: "2012-01-20"
     sponsor: BroadstreetStudio
     sponsorUrl: "http://www.thebroadstreetstudio.com/remember.html"
     venue: "Principle Gallery"
@@ -1277,8 +1277,8 @@
     aventName: "Salon International 2013"
     aventTitle: ~
     aventUrl: ~
-    dateBegin: "April 13"
-    dateEnd: "May 3"
+    dateBegin: "2013-04-13"
+    dateEnd: "2013-05-03"
     sponsor: "International Masters of Fine Art"
     sponsorUrl: "http://archived.link/www.internationalmastersoffineart.com"
     venue: "International Museum of Contemporary Masters of Fine Art at the Greenhouse Gallery of Fine Art"
@@ -1291,8 +1291,8 @@
     aventName: "OPA Online Showcase - Fall 2013"
     aventTitle: ~
     aventUrl: "http://opaonlineshowcase.com/paintings/121/?s=all"
-    dateBegin: "October 1"
-    dateEnd: "December 15"
+    dateBegin: "2013-10-01"
+    dateEnd: "2013-12-15"
     sponsor: "Oil Painters of America"
     sponsorUrl: "http://www.oilpaintersofamerica.com"
     venue: "OPA Online Showcase"
@@ -1305,8 +1305,8 @@
     aventName: "23rd Annual Holiday Miniature Show"
     aventTitle: ~
     aventUrl: "http://abendgallery.com/html_shows/13-mini-show/#royston"
-    dateBegin: "December 7"
-    dateEnd: "December 28"
+    dateBegin: "2013-12-07"
+    dateEnd: "2013-12-28"
     sponsor: ~
     sponsorUrl: ~
     venue: "Abend Gallery of Fine Art"
@@ -1319,8 +1319,8 @@
     aventName: "'Best of America! 2013' Show"
     aventTitle: ~
     aventUrl: "http://www.noaps.org/html/boae_2013.html"
-    dateBegin: "October 13"
-    dateEnd: "November 20"
+    dateBegin: "2013-10-13"
+    dateEnd: "2013-11-20"
     sponsor: "National Oil and Acrylic Painter's Society"
     sponsorUrl: "http://www.noaps.org"
     venue: 
@@ -1343,8 +1343,8 @@
     aventName: "International Guild of Realism Eigth Annual Juried Exhibition"
     aventTitle: ~
     aventUrl: "http://www.realismguild.com/PreviousExhibition2013.html"
-    dateBegin: "October 4"
-    dateEnd: "November 30"
+    dateBegin: "2013-10-04"
+    dateEnd: "2013-11-30"
     sponsor: "International Guild of Realism"
     sponsorUrl: "http://www.realismguild.com"
     venue: "Gallery at Tempe Center for the Arts"
@@ -1357,7 +1357,7 @@
     aventName: "Artavita On-Line Competition"
     aventTitle: ~
     aventUrl: ~
-    dateBegin: ~
+    dateBegin: 2013
     dateEnd: ~
     sponsor: ~
     sponsorUrl: "https://artavita.com"
@@ -1371,8 +1371,8 @@
     aventName: "National Contemporary Realism 2013"
     aventTitle: ~
     aventUrl: "http://web.archive.org/web/20130924131059/http://madorangallery.com/Exhibit_Detail.cfm?ShowsID=231"
-    dateBegin: "May 9"
-    dateEnd: "June 1"
+    dateBegin: "2013-05-09"
+    dateEnd: "2013-06-01"
     sponsor: ~
     sponsorUrl: ~
     venue: "M.A. Doran Gallery"
@@ -1385,8 +1385,8 @@
     aventName: "1st Annual OPA Salon Show"
     aventTitle: "2013 Juried Salon Show"
     aventUrl: "http://www.oilpaintersofamerica.com/events/exhibitions/2013/salon-petoskey/index.cfm"
-    dateBegin: "June 20"
-    dateEnd: "August 31"
+    dateBegin: "2013-06-20"
+    dateEnd: "2013-08-31"
     sponsor: ~
     sponsorUrl: ~
     venue: "Crooked Tree Arts Center"
@@ -1399,8 +1399,8 @@
     aventName: "The National Oil & Acrylic Painters' Society, 1st International ON-LINE Exhibition"
     aventTitle: ~
     aventUrl: "http://www.noaps.org/html/on-line-international.html"
-    dateBegin: "March 28"
-    dateEnd: ~
+    dateBegin: "2013-03-28"
+    dateEnd: -
     sponsor: "National Oil and Acrylic Painter's Society"
     sponsorUrl: "http://www.noaps.org"
     venue: Online
@@ -1413,8 +1413,8 @@
     aventName: "Valentine's Group Show"
     aventTitle: ~
     aventUrl: ~
-    dateBegin: "February 7"
-    dateEnd: "March 2"
+    dateBegin: "2013-02-07"
+    dateEnd: "2013-03-02"
     sponsor: ~
     sponsorUrl: ~
     venue: "M.A. Doran Gallery"
@@ -1427,8 +1427,8 @@
     aventName: "22nd Annual OPA National Juried Exhibition"
     aventTitle: "22nd Annual National Juried Exhibition of Traditional Oils"
     aventUrl: "http://oilpaintersofamerica.com/events/exhibitions/2013/national/index.cfm"
-    dateBegin: "May 18"
-    dateEnd: "June 17"
+    dateBegin: "2013-05-18"
+    dateEnd: "2013-06-17"
     sponsor: ~
     sponsorUrl: ~
     venue: "Insight Gallery"
@@ -1441,8 +1441,8 @@
     aventName: "Hearts and Flowers Group Show"
     aventTitle: ~
     aventUrl: "http://www.beautyartgallery.net/pdf/Beauty_PR_Jan11_2013_HeartsFlowers.pdf"
-    dateBegin: "February 2"
-    dateEnd: "March 22"
+    dateBegin: "2013-02-02"
+    dateEnd: "2013-03-22"
     sponsor: ~
     sponsorUrl: ~
     venue: "Beauty Art Gallery"
@@ -1455,8 +1455,8 @@
     aventName: "29th Annual National Show"
     aventTitle: "2013 Annual National Juried Show"
     aventUrl: "http://www.nval.org/2013_National_Show_2_KXZB.html"
-    dateBegin: "January 22"
-    dateEnd: "February 23"
+    dateBegin: "2013-01-22"
+    dateEnd: "2013-02-23"
     sponsor: "North Valley Art League"
     sponsorUrl: "http://www.nval.org"
     venue: "Carter House Gallery"
@@ -1469,8 +1469,8 @@
     aventName: "'Settler's West' Show"
     aventTitle: "Summer Show"
     aventUrl: ~
-    dateBegin: "May 4"
-    dateEnd: "May 9"
+    dateBegin: "2013-05-04"
+    dateEnd: "2013-05-09"
     sponsor: "Settlers West"
     sponsorUrl: "http://settlerswest.com"
     venue: "Sanders Galleries"
@@ -1483,8 +1483,8 @@
     aventName: "2013 National Juried Art Exhibition"
     aventTitle: ~
     aventUrl: ~
-    dateBegin: "May 4"
-    dateEnd: "June 1"
+    dateBegin: "2013-05-04"
+    dateEnd: "2013-06-01"
     sponsor: "Art League of Hilton Head"
     sponsorUrl: "http://artleaguehhi.com"
     venue: "Walter Greer Gallery at Arts Center of Coastal Carolina"
@@ -1497,8 +1497,8 @@
     aventName: "International Masters of Fine Art Invitational"
     aventTitle: ~
     aventUrl: "http://artfromgreenhouse.com/cgi-bin/exhibit.pl?action=list&cat=imfa13"
-    dateBegin: "October 1"
-    dateEnd: "October 25"
+    dateBegin: "2013-10-01"
+    dateEnd: "2013-10-25"
     sponsor: "International Masters of Fine Art"
     sponsorUrl: "http://archived.link/www.internationalmastersoffineart.com"
     venue: "International Museum of Contemporary Masters of Fine Art at the Greenhouse Gallery of Fine Art"
