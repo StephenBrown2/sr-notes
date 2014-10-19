@@ -883,7 +883,7 @@
     venueTZip: 21401
     venueUrl: "http://www.mcbridegallery.com"
   - 
-    aventName: "International Guild of Realism 5th Annual Juried Exhibition"
+    aventName: "International Guild of Realism Fifth Annual Juried Exhibition"
     aventTitle: ~
     aventUrl: "http://www.realismguild.com/PreviousExhibitionWillottGallery2010.html"
     dateBegin: "February 8"
@@ -1127,7 +1127,7 @@
     aventTitle: "Summer Show?"
     aventUrl: "http://web.archive.org/web/20120508204506/http://settlerswest.com/html/summer.html"
     dateBegin: "May 5"
-    dateEnd: "May 5"
+    dateEnd: "May 10"
     sponsor: Settlers West
     sponsorUrl: "http://settlerswest.com"
     venue: "Sanders Galleries"
@@ -1264,75 +1264,75 @@
     venueUrl: "http://www.principlegallery.com"
 2013: 
   - 
-    aventName: "Salon International"
+    aventName: "Salon International 2013"
     aventTitle: ~
     aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
-    sponsor: ~
-    sponsorUrl: ~
+    dateBegin: "April 13"
+    dateEnd: "May 3"
+    sponsor: "International Masters of Fine Art"
+    sponsorUrl: "http://archived.link/www.internationalmastersoffineart.com"
     venue: "International Museum of Contemporary Masters of Fine Art at the Greenhouse Gallery of Fine Art"
-    venueAddress: ~
+    venueAddress: "6496 N. New Braunfels"
     venueCity: "San Antonio"
     venueState: TX
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: 78209
+    venueUrl: "http://greenhousegallery.com"
   - 
     aventName: "OPA Online Showcase - Fall 2013"
     aventTitle: ~
     aventUrl: "http://opaonlineshowcase.com/paintings/121/?s=all"
     dateBegin: "October 1"
     dateEnd: "December 15"
-    sponsor: ~
-    sponsorUrl: ~
-    venue: Online
+    sponsor: "Oil Painters of America"
+    sponsorUrl: "http://www.oilpaintersofamerica.com"
+    venue: OPA Online Showcase
     venueAddress: ~
     venueCity: ~
     venueState: ~
     venueTZip: ~
-    venueUrl: ~
+    venueUrl: "http://opaonlineshowcase.com"
   - 
     aventName: "23rd Annual Holiday Miniature Show"
     aventTitle: ~
-    aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
+    aventUrl: "http://abendgallery.com/html_shows/13-mini-show/#royston"
+    dateBegin: "December 7"
+    dateEnd: "December 28"
     sponsor: ~
     sponsorUrl: ~
     venue: "Abend Gallery Fine Art"
-    venueAddress: ~
+    venueAddress: "2260 E Colfax Ave"
     venueCity: Denver
     venueState: CO
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: "80206"
+    venueUrl: "http://abendgallery.com"
   - 
-    aventName: "National Oil and Acrylic Painter's Society 'Best of America! 2013' Show"
+    aventName: "'Best of America! 2013' Show"
     aventTitle: ~
     aventUrl: "http://www.noaps.org/html/boae_2013.html"
     dateBegin: "October 13"
     dateEnd: "November 20"
-    sponsor: ~
-    sponsorUrl: ~
+    sponsor: "National Oil and Acrylic Painter's Society"
+    sponsorUrl: "http://www.noaps.org"
     venue: "Dunnegan Gallery of Fine Art, The Vine Wine Bar & Gallery"
-    venueAddress: ~
-    venueCity: "Boliver and Osage Beach"
+    venueAddress: [ "511 N. Pike Ave", "1375 State Road KK" ]
+    venueCity: [ "Boliver", "Osage Beach" ]
     venueState: MO
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: [ 65613, 65065 ]
+    venueUrl: [ "http://www.dunnegangallery.org", "http://www.thevinegallery.com" ]
   - 
-    aventName: "International Guild of Realism 8th Annual Juried Exhibition"
+    aventName: "International Guild of Realism Eigth Annual Juried Exhibition"
     aventTitle: ~
-    aventUrl: "http://www.realismguild.com/PreviousExhibitions.html"
-    dateBegin: ~
-    dateEnd: ~
+    aventUrl: "http://www.realismguild.com/PreviousExhibition2013.html"
+    dateBegin: "October 4"
+    dateEnd: "November 30"
     sponsor: "International Guild of Realism"
     sponsorUrl: "http://www.realismguild.com"
-    venue: "Tempe Center for the Arts"
-    venueAddress: ~
+    venue: "Gallery at Tempe Center for the Arts"
+    venueAddress: "700 W. Rio Salado Parkway"
     venueCity: Tempe
     venueState: AZ
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: "85281"
+    venueUrl: "http://www.tempe.gov/city-hall/community-services/tempe-center-for-the-arts/gallery-at-tca"
   - 
     aventName: "Artavita On-Line Competition"
     aventTitle: ~
@@ -1340,49 +1340,49 @@
     dateBegin: ~
     dateEnd: ~
     sponsor: ~
-    sponsorUrl: ~
+    sponsorUrl: "https://artavita.com"
     venue: Online
     venueAddress: ~
     venueCity: ~
     venueState: ~
     venueTZip: ~
-    venueUrl: ~
+    venueUrl: "https://artavita.com"
   - 
     aventName: "National Contemporary Realism 2013"
     aventTitle: ~
-    aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
+    aventUrl: "http://web.archive.org/web/20130924131059/http://madorangallery.com/Exhibit_Detail.cfm?ShowsID=231"
+    dateBegin: "May 9"
+    dateEnd: "June 1"
     sponsor: ~
     sponsorUrl: ~
     venue: "M.A. Doran Gallery"
-    venueAddress: ~
+    venueAddress: "3509 S. Peoria Avenue"
     venueCity: Tulsa
     venueState: OK
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: 74105
+    venueUrl: "http://www.madorangallery.com"
   - 
     aventName: "1st Annual OPA Salon Show"
-    aventTitle: ~
-    aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
+    aventTitle: "2013 Juried Salon Show"
+    aventUrl: "http://www.oilpaintersofamerica.com/events/exhibitions/2013/salon-petoskey/index.cfm"
+    dateBegin: "June 20"
+    dateEnd: "August 31"
     sponsor: ~
     sponsorUrl: ~
     venue: "Crooked Tree Arts Center"
-    venueAddress: ~
+    venueAddress: "461 E Mitchell St"
     venueCity: Petoskey
     venueState: MI
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: 49770
+    venueUrl: "https://www.crookedtree.org"
   - 
     aventName: "The National Oil & Acrylic Painters' Society, 1st International ON-LINE Exhibition"
     aventTitle: ~
-    aventUrl: ~
-    dateBegin: ~
+    aventUrl: "http://www.noaps.org/html/on-line-international.html"
+    dateBegin: "March 28"
     dateEnd: ~
-    sponsor: ~
-    sponsorUrl: ~
+    sponsor: "National Oil and Acrylic Painter's Society"
+    sponsorUrl: "http://www.noaps.org"
     venue: Online
     venueAddress: ~
     venueCity: ~
@@ -1393,72 +1393,72 @@
     aventName: "Valentine's Group Show"
     aventTitle: ~
     aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
+    dateBegin: "February 7"
+    dateEnd: "March 2"
     sponsor: ~
     sponsorUrl: ~
-    venue: "M. A. Doran Gallery"
-    venueAddress: ~
+    venue: "M.A. Doran Gallery"
+    venueAddress: "3509 S. Peoria Avenue"
     venueCity: Tulsa
     venueState: OK
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: 74105
+    venueUrl: "http://www.madorangallery.com"
   - 
     aventName: "22nd Annual OPA National Juried Exhibition"
-    aventTitle: ~
-    aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
+    aventTitle: "22nd Annual National Juried Exhibition of Traditional Oils"
+    aventUrl: "http://oilpaintersofamerica.com/events/exhibitions/2013/national/index.cfm"
+    dateBegin: "May 18"
+    dateEnd: "June 17"
     sponsor: ~
     sponsorUrl: ~
     venue: "Insight Gallery"
-    venueAddress: ~
+    venueAddress: "214 West Main Street"
     venueCity: Fredericksburg
     venueState: TX
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: 78624
+    venueUrl: "http://www.insightgallery.com"
   - 
     aventName: "Hearts and Flowers Group Show"
     aventTitle: ~
-    aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
+    aventUrl: "http://www.beautyartgallery.net/pdf/Beauty_PR_Jan11_2013_HeartsFlowers.pdf"
+    dateBegin: "February 2"
+    dateEnd: "March 22"
     sponsor: ~
     sponsorUrl: ~
     venue: "Beauty Art Gallery"
-    venueAddress: ~
-    venueCity: "Newton Square"
+    venueAddress: "3857 Providence Rd, Suite 200"
+    venueCity: "Newtown Square"
     venueState: PA
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: 19073
+    venueUrl: "http://beautyartgallery.net"
   - 
     aventName: "29th Annual National Show"
-    aventTitle: ~
-    aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
-    sponsor: ~
-    sponsorUrl: ~
-    venue: "North Valley Art League"
-    venueAddress: ~
-    venueCity: Reading
+    aventTitle: "2013 Annual National Juried Show"
+    aventUrl: "http://www.nval.org/2013_National_Show_2_KXZB.html"
+    dateBegin: "January 22"
+    dateEnd: "February 23"
+    sponsor: "North Valley Art League"
+    sponsorUrl: "http://www.nval.org"
+    venue: "Carter House Gallery"
+    venueAddress: "48 Quartz Hill Road"
+    venueCity: Redding
     venueState: CA
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: 96003
+    venueUrl: "http://www.nval.org"
   - 
     aventName: "'Settler's West' Show"
-    aventTitle: ~
+    aventTitle: "Summer Show"
     aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
-    sponsor: ~
-    sponsorUrl: ~
+    dateBegin: "May 4"
+    dateEnd: "May 9"
+    sponsor: Settlers West
+    sponsorUrl: "http://settlerswest.com"
     venue: "Sanders Galleries"
-    venueAddress: ~
+    venueAddress: "6420 N Campbell Ave"
     venueCity: Tucson
     venueState: AZ
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: 85718
+    venueUrl: "http://www.sandersgalleries.com"
   - 
     aventName: "2013 National Juried Art Exhibition"
     aventTitle: ~
@@ -1476,38 +1476,38 @@
   - 
     aventName: "International Masters of Fine Art Invitational"
     aventTitle: ~
-    aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
-    sponsor: ~
-    sponsorUrl: ~
+    aventUrl: "http://artfromgreenhouse.com/cgi-bin/exhibit.pl?action=list&cat=imfa13"
+    dateBegin: "October 1"
+    dateEnd: "October 25"
+    sponsor: "International Masters of Fine Art"
+    sponsorUrl: "http://archived.link/www.internationalmastersoffineart.com"
     venue: "International Museum of Contemporary Masters of Fine Art at the Greenhouse Gallery of Fine Art"
-    venueAddress: ~
+    venueAddress: "6496 N. New Braunfels"
     venueCity: "San Antonio"
     venueState: TX
-    venueTZip: ~
-    venueUrl: ~
-*** Greenhouse Gallery Changes ownership ***
+    venueTZip: 78209
+    venueUrl: "http://greenhousegallery.com"
+*** Greenhouse Gallery Changes ownership Sept 6 2013***
 https://web.archive.org/web/20140110015741/http://greenhousegallery.com/
 *** Greenhouse Gallery Changes location ***
 https://web.archive.org/web/20140327220612/http://www.greenhousegallery.com/
-*** Greenhouse Gallery Changes domain ***
+*** Greenhouse Gallery Changes domain gallery -> fineart -> artfrom? ***
 https://web.archive.org/web/20140626080259/http://www.greenhousegallery.com/
 2014: 
   - 
-    aventName: "Salon International"
+    aventName: "Salon International 2014"
     aventTitle: ~
-    aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
-    sponsor: ~
-    sponsorUrl: ~
+    aventUrl: "http://artfromgreenhouse.com/cgi-bin/exhibit.pl?action=list&cat=si2014"
+    dateBegin: "April 5"
+    dateEnd: "April 25"
+    sponsor: "International Masters of Fine Art"
+    sponsorUrl: "http://archived.link/www.internationalmastersoffineart.com"
     venue: "International Museum of Contemporary Masters of Fine Art at the Greenhouse Gallery of Fine Art"
-    venueAddress: ~
+    venueAddress: "2222 Breezewood Blvd."
     venueCity: "San Antonio"
     venueState: TX
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: 78209
+    venueUrl: "http://artfromgreenhouse.com"
   - 
     aventName: "35th Anniversary Alumni Exhibition"
     aventTitle: ~
@@ -1553,7 +1553,7 @@ https://web.archive.org/web/20140626080259/http://www.greenhousegallery.com/
   - 
     aventName: "Valentine's Group Show"
     aventTitle: ~
-    aventUrl: ~
+    aventUrl: "https://webcache.googleusercontent.com/search?q=cache:kwUb4L-j1AUJ:www.madorangallery.com/Exhibit_Detail.cfm%3FShowsID%3D237+&cd=3&hl=en&ct=clnk&gl=us"
     dateBegin: ~
     dateEnd: ~
     sponsor: ~
