@@ -1124,116 +1124,116 @@
     venueUrl: "http://greenhousegallery.com"
   - 
     aventName: "'Settler's West' Show"
-    aventTitle: ~
-    aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
-    sponsor: ~
-    sponsorUrl: ~
+    aventTitle: "Summer Show?"
+    aventUrl: "http://web.archive.org/web/20120508204506/http://settlerswest.com/html/summer.html"
+    dateBegin: "May 5"
+    dateEnd: "May 5"
+    sponsor: Settlers West
+    sponsorUrl: "http://settlerswest.com"
     venue: "Sanders Galleries"
-    venueAddress: ~
+    venueAddress: "6420 N Campbell Ave"
     venueCity: Tucson
     venueState: AZ
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: 85718
+    venueUrl: "http://www.sandersgalleries.com"
   - 
     aventName: "'Small Gems' Group Show"
     aventTitle: ~
-    aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
+    aventUrl: "https://web.archive.org/web/20120308125653/http://www.mcbridegallery.com/showsched.html"
+    dateBegin: "December 1"
+    dateEnd: "December 31"
     sponsor: ~
     sponsorUrl: ~
     venue: "McBride Gallery"
-    venueAddress: ~
+    venueAddress: "215 Main Street"
     venueCity: Annapolis
     venueState: MD
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: 21401
+    venueUrl: "http://www.mcbridegallery.com"
   - 
     aventName: "Small Treasures Exhibit"
-    aventTitle: ~
-    aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
+    aventTitle: "'Small Treasures' Juried Exhibition"
+    aventUrl: "http://web.archive.org/web/20130218021524/http://www.beautyartgallery.net/treasure.html"
+    dateBegin: "December 1"
+    dateEnd: "January 10"
     sponsor: ~
     sponsorUrl: ~
     venue: "Beauty Art Gallery"
-    venueAddress: ~
+    venueAddress: "3857 Providence Rd, Suite 200"
     venueCity: "Newtown Square"
     venueState: PA
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: 19073
+    venueUrl: "http://beautyartgallery.net"
   - 
-    aventName: "National Oil and Acrylic Painter's Society 'Best of America! 2012' Show"
+    aventName: "'Best of America! 2012' Show"
     aventTitle: ~
     aventUrl: "http://www.noaps.org/html/boae_2012.html"
     dateBegin: "October 14"
     dateEnd: "December 1"
-    sponsor: ~
-    sponsorUrl: ~
+    sponsor: "National Oil and Acrylic Painter's Society"
+    sponsorUrl: "http://www.noaps.org"
     venue: "Dunnegan Gallery of Fine Art, The Vine Wine Bar & Gallery"
-    venueAddress: ~
-    venueCity: "Boliver and Osage Beach"
+    venueAddress: [ "511 N. Pike Ave", "1375 State Road KK" ]
+    venueCity: [ "Boliver", "Osage Beach" ]
     venueState: MO
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: [ 65613, 65065 ]
+    venueUrl: [ "http://www.dunnegangallery.org", "http://www.thevinegallery.com" ]
   - 
     aventName: "OPA Eastern Regional Juried Exhibition"
-    aventTitle: ~
-    aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
+    aventTitle: "2012 Eastern Regional Exhibition"
+    aventUrl: "http://www.oilpaintersofamerica.com/events/exhibitions/2012/eastern/index.cfm"
+    dateBegin: "September 29"
+    dateEnd: "October 28"
     sponsor: ~
     sponsorUrl: ~
     venue: "Bennington Center for the Arts"
-    venueAddress: ~
+    venueAddress: "44 Gypsy Lane"
     venueCity: Bennington
     venueState: VT
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: "05201"
+    venueUrl: "http://www.thebennington.org"
   - 
     aventName: "National Contemporary Realism 2012"
     aventTitle: ~
     aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
+    dateBegin: "May 10"
+    dateEnd: "June 16"
     sponsor: ~
     sponsorUrl: ~
     venue: "M.A. Doran Gallery"
-    venueAddress: ~
+    venueAddress: "3509 S. Peoria Avenue"
     venueCity: Tulsa
     venueState: OK
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: 74105
+    venueUrl: "http://www.madorangallery.com"
   - 
     aventName: "2nd Scottsdale Salon of Fine Art"
     aventTitle: ~
-    aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
-    sponsor: ~
-    sponsorUrl: ~
+    aventUrl: "http://www.scottsdalesalonoffineart.com"
+    dateBegin: "April 20"
+    dateEnd: "May 20"
+    sponsor: "Scottsdale Salon of Fine Art"
+    sponsorUrl: "http://www.scottsdalesalonoffineart.com"
     venue: "Legacy Gallery"
-    venueAddress: ~
+    venueAddress: "7178 E. Main Street"
     venueCity: Scottsdale
     venueState: AZ
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: 85251
+    venueUrl: "http://www.legacygallery.com"
   - 
     aventName: "28th Annual National Show"
-    aventTitle: ~
-    aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
-    sponsor: ~
-    sponsorUrl: ~
-    venue: "North Valley Art League"
-    venueAddress: ~
-    venueCity: Reading
+    aventTitle: "28th Annual Juried National Show"
+    aventUrl: "http://www.nval.org/2012_National_Show.html"
+    dateBegin: "January 24"
+    dateEnd: "February 25"
+    sponsor: "North Valley Art League"
+    sponsorUrl: "http://www.nval.org"
+    venue: "Carter House Gallery"
+    venueAddress: "48 Quartz Hill Road"
+    venueCity: Redding
     venueState: CA
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: 96003
+    venueUrl: "http://www.nval.org"
   - 
     aventName: "30th Anniversary Celebration Show"
     aventTitle: ~
@@ -1249,19 +1249,19 @@
     venueTZip: 78209
     venueUrl: "http://greenhousegallery.com"
   - 
-    aventName: "'From What I Remember/From What I Forget', A Broadstreet Studio Show"
+    aventName: "From What I Remember/From What I Forget"
     aventTitle: ~
-    aventUrl: "http://www.thebroadstreetstudio.com/remember.html"
-    dateBegin: ~
-    dateEnd: ~
-    sponsor: ~
-    sponsorUrl: ~
+    aventUrl: "http://myemail.constantcontact.com/A-Broad-Street-Studio-Curated-Exhibition--From-What-I-Remember---From-What-I-Forget.html?soid=1103050552174&aid=6zjhr13xDuo"
+    dateBegin: "January 20"
+    dateEnd: "January 20"
+    sponsor: "BroadstreetStudio"
+    sponsorUrl: "http://www.thebroadstreetstudio.com/remember.html"
     venue: "Principle Gallery"
-    venueAddress: ~
+    venueAddress: "208 King St"
     venueCity: Alexandria
     venueState: VA
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: 22314
+    venueUrl: "http://www.principlegallery.com"
 2013: 
   - 
     aventName: "Salon International"
