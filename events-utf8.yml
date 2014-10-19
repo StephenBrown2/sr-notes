@@ -1128,7 +1128,7 @@
     aventUrl: "http://web.archive.org/web/20120508204506/http://settlerswest.com/html/summer.html"
     dateBegin: "May 5"
     dateEnd: "May 10"
-    sponsor: Settlers West
+    sponsor: "Settlers West"
     sponsorUrl: "http://settlerswest.com"
     venue: "Sanders Galleries"
     venueAddress: "6420 N Campbell Ave"
@@ -1172,12 +1172,22 @@
     dateEnd: "December 1"
     sponsor: "National Oil and Acrylic Painter's Society"
     sponsorUrl: "http://www.noaps.org"
-    venue: "Dunnegan Gallery of Fine Art, The Vine Wine Bar & Gallery"
-    venueAddress: [ "511 N. Pike Ave", "1375 State Road KK" ]
-    venueCity: [ "Boliver", "Osage Beach" ]
+    venue: 
+      - "Dunnegan Gallery of Fine Art"
+      - "The Vine Wine Bar & Gallery"
+    venueAddress: 
+      - "511 N. Pike Ave"
+      - "1375 State Road KK"
+    venueCity: 
+      - Boliver
+      - "Osage Beach"
     venueState: MO
-    venueTZip: [ 65613, 65065 ]
-    venueUrl: [ "http://www.dunnegangallery.org", "http://www.thevinegallery.com" ]
+    venueTZip: 
+      - 65613
+      - 65065
+    venueUrl: 
+      - "http://www.dunnegangallery.org"
+      - "http://www.thevinegallery.com"
   - 
     aventName: "OPA Eastern Regional Juried Exhibition"
     aventTitle: "2012 Eastern Regional Exhibition"
@@ -1254,7 +1264,7 @@
     aventUrl: "http://myemail.constantcontact.com/A-Broad-Street-Studio-Curated-Exhibition--From-What-I-Remember---From-What-I-Forget.html?soid=1103050552174&aid=6zjhr13xDuo"
     dateBegin: "January 20"
     dateEnd: "January 20"
-    sponsor: "BroadstreetStudio"
+    sponsor: BroadstreetStudio
     sponsorUrl: "http://www.thebroadstreetstudio.com/remember.html"
     venue: "Principle Gallery"
     venueAddress: "208 King St"
@@ -1285,7 +1295,7 @@
     dateEnd: "December 15"
     sponsor: "Oil Painters of America"
     sponsorUrl: "http://www.oilpaintersofamerica.com"
-    venue: OPA Online Showcase
+    venue: "OPA Online Showcase"
     venueAddress: ~
     venueCity: ~
     venueState: ~
@@ -1313,12 +1323,22 @@
     dateEnd: "November 20"
     sponsor: "National Oil and Acrylic Painter's Society"
     sponsorUrl: "http://www.noaps.org"
-    venue: "Dunnegan Gallery of Fine Art, The Vine Wine Bar & Gallery"
-    venueAddress: [ "511 N. Pike Ave", "1375 State Road KK" ]
-    venueCity: [ "Boliver", "Osage Beach" ]
+    venue: 
+      - "Dunnegan Gallery of Fine Art"
+      - "The Vine Wine Bar & Gallery"
+    venueAddress: 
+      - "511 N. Pike Ave"
+      - "1375 State Road KK"
+    venueCity: 
+      - Boliver
+      - "Osage Beach"
     venueState: MO
-    venueTZip: [ 65613, 65065 ]
-    venueUrl: [ "http://www.dunnegangallery.org", "http://www.thevinegallery.com" ]
+    venueTZip: 
+      - 65613
+      - 65065
+    venueUrl: 
+      - "http://www.dunnegangallery.org"
+      - "http://www.thevinegallery.com"
   - 
     aventName: "International Guild of Realism Eigth Annual Juried Exhibition"
     aventTitle: ~
@@ -1451,7 +1471,7 @@
     aventUrl: ~
     dateBegin: "May 4"
     dateEnd: "May 9"
-    sponsor: Settlers West
+    sponsor: "Settlers West"
     sponsorUrl: "http://settlerswest.com"
     venue: "Sanders Galleries"
     venueAddress: "6420 N Campbell Ave"
