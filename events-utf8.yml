@@ -1299,7 +1299,7 @@
     dateEnd: "December 28"
     sponsor: ~
     sponsorUrl: ~
-    venue: "Abend Gallery Fine Art"
+    venue: "Abend Gallery of Fine Art"
     venueAddress: "2260 E Colfax Ave"
     venueCity: Denver
     venueState: CO
@@ -1487,12 +1487,6 @@
     venueState: TX
     venueTZip: 78209
     venueUrl: "http://greenhousegallery.com"
-*** Greenhouse Gallery Changes ownership Sept 6 2013***
-https://web.archive.org/web/20140110015741/http://greenhousegallery.com/
-*** Greenhouse Gallery Changes location ***
-https://web.archive.org/web/20140327220612/http://www.greenhousegallery.com/
-*** Greenhouse Gallery Changes domain gallery -> fineart -> artfrom? ***
-https://web.archive.org/web/20140626080259/http://www.greenhousegallery.com/
 2014: 
   - 
     aventName: "Salon International 2014"
@@ -1510,36 +1504,36 @@ https://web.archive.org/web/20140626080259/http://www.greenhousegallery.com/
     venueUrl: "http://artfromgreenhouse.com"
   - 
     aventName: "35th Anniversary Alumni Exhibition"
-    aventTitle: ~
-    aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
+    aventTitle: "Alumni Art Exhibit & Sale"
+    aventUrl: "http://www.bsfa.org/361/visual-arts/events-interior"
+    dateBegin: "October 24"
+    dateEnd: "October 24"
     sponsor: ~
     sponsorUrl: ~
     venue: "Baltimore School for the Arts"
-    venueAddress: ~
+    venueAddress: "712 Cathedral Street"
     venueCity: Baltimore
     venueState: MD
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: 21201
+    venueUrl: "http://www.bsfa.org"
   - 
     aventName: "National Contemporary Realism 2014"
     aventTitle: ~
-    aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
+    aventUrl: "https://webcache.googleusercontent.com/search?q=cache:aMbSEo2xDAQJ:www.madorangallery.com/Exhibit_Detail.cfm%3FShowsID%3D240+&cd=2&hl=en&ct=clnk&gl=us"
+    dateBegin: "May 6"
+    dateEnd: "June 12"
     sponsor: ~
     sponsorUrl: ~
-    venue: "M. A. Doran Gallery"
-    venueAddress: ~
+    venue: "M.A. Doran Gallery"
+    venueAddress: "3509 S. Peoria Avenue"
     venueCity: Tulsa
     venueState: OK
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: 74105
+    venueUrl: "http://www.madorangallery.com"
   - 
     aventName: "The Richeson75: Still Life and Floral Competition"
-    aventTitle: ~
-    aventUrl: ~
+    aventTitle: "Still Life and Floral 2014"
+    aventUrl: "http://www.richeson75.com/stilllife/index.html"
     dateBegin: "March 7"
     dateEnd: ~
     sponsor: "Jack Richeson & Co., Inc."
@@ -1554,72 +1548,72 @@ https://web.archive.org/web/20140626080259/http://www.greenhousegallery.com/
     aventName: "Valentine's Group Show"
     aventTitle: ~
     aventUrl: "https://webcache.googleusercontent.com/search?q=cache:kwUb4L-j1AUJ:www.madorangallery.com/Exhibit_Detail.cfm%3FShowsID%3D237+&cd=3&hl=en&ct=clnk&gl=us"
-    dateBegin: ~
-    dateEnd: ~
+    dateBegin: "February 6"
+    dateEnd: "March 1"
     sponsor: ~
     sponsorUrl: ~
-    venue: "M. A. Doran Gallery"
-    venueAddress: ~
+    venue: "M.A. Doran Gallery"
+    venueAddress: "3509 S. Peoria Avenue"
     venueCity: Tulsa
     venueState: OK
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: 74105
+    venueUrl: "http://www.madorangallery.com"
   - 
-    aventName: "100th Annual Exhibition"
-    aventTitle: ~
+    aventName: "101st Annual Exhibition"
+    aventTitle: "2014 Allied Artists of America Juried Exhibition"
     aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
+    dateBegin: "September 4"
+    dateEnd: "September 14"
     sponsor: "Allied Artists of America"
-    sponsorUrl: ~
-    venue: ~
-    venueAddress: ~
+    sponsorUrl: "http://www.alliedartistsofamerica.org"
+    venue: "Salmagundi Club"
+    venueAddress: "47 Fifth Ave"
     venueCity: "New York"
     venueState: NY
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: 10003
+    venueUrl: "http://www.nationalartsclub.org"
   - 
     aventName: "OPA Eastern Regional Juried Exhibition"
-    aventTitle: ~
-    aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
+    aventTitle: "2014 Eastern Regional Exhibition"
+    aventUrl: "http://www.oilpaintersofamerica.com/events/exhibitions/2014/eastern/index.cfm"
+    dateBegin: "September 12"
+    dateEnd: "October 9"
     sponsor: ~
     sponsorUrl: ~
     venue: "Eisele Gallery"
-    venueAddress: ~
+    venueAddress: "5729 Dragon Way"
     venueCity: Cincinatti
     venueState: OH
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: 45227
+    venueUrl: "http://www.eiselefineart.com"
   - 
     aventName: "9th Annual Juried Exhibition"
-    aventTitle: ~
-    aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
+    aventTitle: "9th Annual International Juried Exhibition"
+    aventUrl: "http://web.archive.org/web/20140713151107/http://www.realismguild.com/CurrentExhibitions.html"
+    dateBegin: "November 7"
+    dateEnd: "November 28"
     sponsor: "International Guild of Realism"
-    sponsorUrl: ~
+    sponsorUrl: "http://www.realismguild.com"
     venue: "Robert Lange Studios"
-    venueAddress: ~
+    venueAddress: "2 Queen St"
     venueCity: Charleston
     venueState: SC
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: 29401
+    venueUrl: "http://www.robertlangestudios.com"
   - 
     aventName: "24th Annual Holiday Miniature Show"
     aventTitle: ~
-    aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
+    aventUrl: "http://web.archive.org/web/20140820140907/http://www.abendgallery.com/events.php"
+    dateBegin: "December 5"
+    dateEnd: "December 31"
     sponsor: ~
     sponsorUrl: ~
     venue: "Abend Gallery of Fine Art"
-    venueAddress: ~
+    venueAddress: "2260 E Colfax Ave"
     venueCity: Denver
     venueState: CO
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: "80206"
+    venueUrl: "http://abendgallery.com"
   - 
     aventName: ~
     aventTitle: ~
