@@ -10,17 +10,17 @@
     sponsor: ~
     sponsorUrl: ~
     venue: "Wichita Center for the Arts"
-    venueAddress: ~
+    venueAddress: "9112 E. Central"
     venueCity: Wichita
     venueState: KS
-    venueTZip: ~
+    venueTZip: 67206
     venueUrl: "http://www.wcfta.com"
   - 
     aventName: "26th Annual Open Juried Exhibition"
     aventTitle: ~
     aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
+    dateBegin: "1996-01-01"
+    dateEnd: "1996-12-31"
     sponsor: ~
     sponsorUrl: ~
     venue: "York Art Association"
@@ -33,23 +33,23 @@
     aventName: "Fairhaven's Fourth Biennial Juried Art Exhibit"
     aventTitle: ~
     aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
+    dateBegin: "1996-01-01"
+    dateEnd: "1996-12-31"
     sponsor: ~
     sponsorUrl: ~
     venue: ~
-    venueAddress: ~
+    venueAddress: "7200 Third Ave"
     venueCity: Sykesville
     venueState: MD
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: 21784
+    venueUrl:"http://www.fairhavenccrc.org"
 1998: 
   - 
     aventName: "York Art Association's 92nd Spring Members' Exhibit"
     aventTitle: ~
     aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
+    dateBegin: "1998-01-01"
+    dateEnd: "1998-12-31"
     sponsor: ~
     sponsorUrl: ~
     venue: "York Art Association"
@@ -77,8 +77,8 @@
     aventName: "York Art Association's Rottler Award Selection Exhibit"
     aventTitle: ~
     aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
+    dateBegin: "1999-01-01"
+    dateEnd: "1999-12-31"
     sponsor: ~
     sponsorUrl: ~
     venue: "York Art Association"
@@ -92,23 +92,23 @@
     aventName: "Exhibit III, Works by Contemporary Maryland Artists"
     aventTitle: ~
     aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
+    dateBegin: "2000-01-01"
+    dateEnd: "2000-12-31"
     sponsor: ~
     sponsorUrl: ~
     venue: "Government House"
-    venueAddress: ~
+    venueAddress: "110 State Cir"
     venueCity: Annapolis
     venueState: MD
-    venueTZip: ~
-    venueUrl: ~
+    venueTZip: 21401
+    venueUrl: "http://msa.maryland.gov/msa/homepage/html/govhouse.html"
 2001: 
   - 
     aventName: "York Art Association's 31st Open Juried Exhibition"
     aventTitle: ~
     aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
+    dateBegin: "2001-01-01"
+    dateEnd: "2001-12-31"
     sponsor: ~
     sponsorUrl: ~
     venue: "York Art Association"
@@ -122,8 +122,8 @@
     aventName: "York Art Association's Rottler Award Selection Exhibit"
     aventTitle: ~
     aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
+    dateBegin: "2002-01-01"
+    dateEnd: "2002-12-31"
     sponsor: ~
     sponsorUrl: ~
     venue: "York Art Association"
@@ -137,8 +137,8 @@
     aventName: "Trompe L'Oeil Interpretations"
     aventTitle: ~
     aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
+    dateBegin: "2003-01-01"
+    dateEnd: "2003-12-31"
     sponsor: ~
     sponsorUrl: ~
     venue: "Century Gallery"
@@ -146,16 +146,16 @@
     venueCity: Alexandria
     venueState: VA
     venueTZip: 22314
-    venueUrl: ~
+    venueUrl: "http://www.yelp.com/biz/century-gallery-alexandria"
 2004: 
   - 
     aventName: "76th Grand National Exhibition of the American Artists Professional League"
     aventTitle: ~
-    aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
+    aventUrl: "http://web.archive.org/web/20040806081906/http://www.americanartistsprofessionalleague.org/exhibitions.htm"
+    dateBegin: "2004-02-11"
+    dateEnd: "2004-12-11"
     sponsor: ~
-    sponsorUrl: ~
+    sponsorUrl: "http://www.americanartistsprofessionalleague.org"
     venue: "Salmagundi Club"
     venueAddress: "47 Fifth Avenue"
     venueCity: "New York"
@@ -180,13 +180,13 @@
   - 
     aventName: "14th Annual National Juried Exhibition of Traditional Oils"
     aventTitle: ~
-    aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
+    aventUrl: "http://web.archive.org/web/20050117012909/http://oilpaintersofamerica.com/events.htm"
+    dateBegin: "2005-05-05"
+    dateEnd: "2005-06-19"
     sponsor: "Oil Painters of America"
     sponsorUrl: "http://www.oilpaintersofamerica.com"
     venue: "Hilligoss Galleries"
-    venueAddress: "520 N. Michigan Avenue"
+    venueAddress: "520 N. Michigan Avenue, Suite 420"
     venueCity: Chicago
     venueState: IL
     venueTZip: 60611
@@ -223,9 +223,9 @@
   - 
     aventName: "Salon International"
     aventTitle: ~
-    aventUrl: ~
-    dateBegin: ~
-    dateEnd: ~
+    aventUrl: "http://web.archive.org/web/20060615092746/http://greenhousegallery.com/cgi-bin/mp/exhibits.pl?exhibitid=si2006&title=Salon%20International%202006"
+    dateBegin: "2006-05-20"
+    dateEnd: "2006-06-16"
     sponsor: "International Museum of Contemporary Masters of Fine Art"
     sponsorUrl: "http://www.imcm.org"
     venue: "Greenhouse Gallery of Fine Art"
