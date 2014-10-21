@@ -1152,29 +1152,33 @@
   venueTZip: "19073"
   venueUrl: "http://beautyartgallery.net"
 - 
-  aventName: "'Best of America! 2012' Show"
+  aventName: "'Best of America! 2012' Show at Dunnegan Gallery"
   aventTitle: ~
   aventUrl: "http://www.noaps.org/html/boae_2012.html"
   dateBegin: "2012-10-14"
+  dateEnd: "2012-10-28"
+  sponsor: "National Oil and Acrylic Painter's Society"
+  sponsorUrl: "http://www.noaps.org"
+  venue: "Dunnegan Gallery of Fine Art"
+  venueAddress: "511 N. Pike Ave"
+  venueCity: Boliver
+  venueState: MO
+  venueTZip: "65613"
+  venueUrl: "http://www.dunnegangallery.org"
+- 
+  aventName: "'Best of America! 2012' Show at The Vine Gallery"
+  aventTitle: ~
+  aventUrl: "http://www.noaps.org/html/boae_2012.html"
+  dateBegin: "2012-11-03"
   dateEnd: "2012-12-01"
   sponsor: "National Oil and Acrylic Painter's Society"
   sponsorUrl: "http://www.noaps.org"
-  venue: 
-    - "Dunnegan Gallery of Fine Art"
-    - "The Vine Wine Bar & Gallery"
-  venueAddress: 
-    - "511 N. Pike Ave"
-    - "1375 State Road KK"
-  venueCity: 
-    - Boliver
-    - "Osage Beach"
+  venue: "The Vine Wine Bar & Gallery"
+  venueAddress: "1375 State Road KK"
+  venueCity: "Osage Beach"
   venueState: MO
-  venueTZip: 
-    - "65613"
-    - "65065"
-  venueUrl: 
-    - "http://www.dunnegangallery.org"
-    - "http://www.thevinegallery.com"
+  venueTZip: "65065"
+  venueUrl: "http://www.thevinegallery.com"
 - 
   aventName: "OPA Eastern Regional Juried Exhibition"
   aventTitle: "2012 Eastern Regional Exhibition"
@@ -1302,29 +1306,33 @@
   venueTZip: "80206"
   venueUrl: "http://abendgallery.com"
 - 
-  aventName: "'Best of America! 2013' Show"
+  aventName: "'Best of America! 2013' Show at Dunnegan Gallery"
   aventTitle: ~
   aventUrl: "http://www.noaps.org/html/boae_2013.html"
   dateBegin: "2013-10-13"
+  dateEnd: "2013-10-27"
+  sponsor: "National Oil and Acrylic Painter's Society"
+  sponsorUrl: "http://www.noaps.org"
+  venue: "Dunnegan Gallery of Fine Art"
+  venueAddress: "511 N. Pike Ave"
+  venueCity: Boliver
+  venueState: MO
+  venueTZip: "65613"
+  venueUrl: "http://www.dunnegangallery.org"
+- 
+  aventName: "'Best of America! 2013' Show at The Vine Gallery"
+  aventTitle: ~
+  aventUrl: "http://www.noaps.org/html/boae_2013.html"
+  dateBegin: "2013-11-02"
   dateEnd: "2013-11-20"
   sponsor: "National Oil and Acrylic Painter's Society"
   sponsorUrl: "http://www.noaps.org"
-  venue: 
-    - "Dunnegan Gallery of Fine Art"
-    - "The Vine Wine Bar & Gallery"
-  venueAddress: 
-    - "511 N. Pike Ave"
-    - "1375 State Road KK"
-  venueCity: 
-    - Boliver
-    - "Osage Beach"
+  venue: "The Vine Wine Bar & Gallery"
+  venueAddress: "1375 State Road KK"
+  venueCity: "Osage Beach"
   venueState: MO
-  venueTZip: 
-    - "65613"
-    - "65065"
-  venueUrl: 
-    - "http://www.dunnegangallery.org"
-    - "http://www.thevinegallery.com"
+  venueTZip: "65065"
+  venueUrl: "http://www.thevinegallery.com"
 - 
   aventName: "International Guild of Realism Eigth Annual Juried Exhibition"
   aventTitle: ~
