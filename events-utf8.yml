@@ -1386,8 +1386,7 @@
   aventTitle: ~
   aventUrl: "http://www.noaps.org/html/on-line-international.html"
   dateBegin: "2013-03-28"
-  dateEnd: 
-    - ~
+  dateEnd: "-"
   sponsor: "National Oil and Acrylic Painter's Society"
   sponsorUrl: "http://www.noaps.org"
   venue: Online
@@ -1541,8 +1540,7 @@
   aventTitle: "Still Life and Floral 2014"
   aventUrl: "http://www.richeson75.com/stilllife/index.html"
   dateBegin: "2014-03-07"
-  dateEnd: 
-    - ~
+  dateEnd: "-"
   sponsor: "Jack Richeson & Co., Inc."
   sponsorUrl: "http://www.richesonart.com"
   venue: "Richeson School of Art and Gallery"
