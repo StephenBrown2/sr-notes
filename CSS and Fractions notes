@@ -1,0 +1,116 @@
+http://stackoverflow.com/a/19696379
+Must be div surrounding image, must be displayed inline.
+e.g.
+<div class="sold">
+    <img src="http://placekitten.com/250/200" alt="image here">
+</div>
+
+.sold {
+    position: relative;
+    display: inline;
+}
+
+.sold:after {
+    position: absolute;
+    color: #FF0000;
+    content: '';
+    background-color: #FF0000;
+    border-radius: 50%;
+    opacity: 0.75;
+    width: 10px;
+    height: 10px;
+    bottom: 10px;
+    right: 10px;
+}
+
+
+&frasl
+
+1/2 → &#189; or &frac12;
+
+1/3 → &#8531;
+2/3 → &#8532;
+
+1/4 → &#188; or &frac14;
+3/4 → &#190; or &frac34;
+
+1/5 → &#8533;
+2/5 → &#8534;
+3/5 → &#8535;
+4/5 → &#8536;
+
+1/6 → &#8537;
+5/6 → &#8538;
+
+1/8 → &#8539; or &frac18;
+3/8 → &#8540; or &frac38;
+5/8 → &#8541; or &frac58;
+7/8 → &#8542; or &frac78;
+
+
+switch (this._d) {
+    case 2:
+        if (this._n == 1) {
+            return "&#189";
+        }
+        break;
+    case 3:
+        switch (this._n) {
+            1:
+                return "&#8531";
+                break;
+            2:
+                return "&#8532";
+                break;
+        break;
+    case 4:
+        switch (this._n) {
+            1:
+                return "&#188";
+                break;
+            3:
+                return "&#190";
+                break;
+        break;
+    case 5:
+        switch (this._n) {
+            1:
+                return "&#8533";
+                break;
+            2:
+                return "&#8534";
+                break;
+            3:
+                return "&#8535";
+                break;
+            4:
+                return "&#8536";
+                break;
+        break;
+    case 6:
+        switch (this._n) {
+            1:
+                return "&#8537";
+                break;
+            5:
+                return "&#8538";
+                break;
+        break;
+    case 8:
+        switch (this._n) {
+            1:
+                return "&#8539";
+                break;
+            3:
+                return "&#8540";
+                break;
+            5:
+                return "&#8541";
+                break;
+            7:
+                return "&#8542";
+                break;
+        break;
+}
+return false;
+
